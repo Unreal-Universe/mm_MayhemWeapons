@@ -2,9 +2,9 @@ Class ColorLinkProjViolet extends ReflectiveLinkProjectile;
 
 defaultproperties
 {
-     LinkSparksClass=Class'tk_Mayhemweapons.ColorLinkSparksViolet'
-     LinkTrailClass=Class'tk_Mayhemweapons.ColorLinkTrailViolet'
+     LinkSparksClass=Class'mm_MayhemWeapons.ColorLinkSparksViolet'
+     LinkTrailClass=Class'mm_MayhemWeapons.ColorLinkTrailViolet'
      LightHue=175
      LightSaturation=50
-     Skins(0)=FinalBlend'tk_MayhemWeapons.Link.LinkProjVioletFB'
+     Skins(0)=FinalBlend'mm_MayhemWeapons.Link.LinkProjVioletFB'
 }

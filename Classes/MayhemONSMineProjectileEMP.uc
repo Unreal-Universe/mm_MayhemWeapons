@@ -21,14 +21,14 @@ event TakeDamage( int Damage, Pawn EventInstigator, vector HitLocation, vector M
 
 defaultproperties
 {
-     ExplosionEffect=Class'tk_Mayhemweapons.EffectEMPMine'
-     ExplodeSound=Sound'tk_MayhemWeapons.Mines.empmine'
+     ExplosionEffect=Class'mm_MayhemWeapons.EffectEMPMine'
+     ExplodeSound=Sound'mm_MayhemWeapons.Mines.empmine'
      ScurrySpeed=400.000000
      ScurryAnimRate=3.250000
      Damage=45.000000
      DamageRadius=350.000000
      MomentumTransfer=20000.000000
-     MyDamageType=Class'tk_Mayhemweapons.DamageTypeMayhemONSMineEMP'
-     Skins(0)=Texture'tk_MayhemWeapons.empred'
-     Skins(1)=Texture'tk_MayhemWeapons.empred'
+     MyDamageType=Class'mm_MayhemWeapons.DamageTypeMayhemONSMineEMP'
+     Skins(0)=Texture'mm_MayhemWeapons.empred'
+     Skins(1)=Texture'mm_MayhemWeapons.empred'
 }

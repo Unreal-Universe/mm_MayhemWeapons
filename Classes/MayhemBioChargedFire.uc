@@ -35,5 +35,5 @@ function projectile SpawnProjectile(Vector Start, Rotator Dir)
 
 defaultproperties
 {
-     AmmoClass=Class'tk_Mayhemweapons.MayhemBioAmmo'
+     AmmoClass=Class'mm_MayhemWeapons.MayhemBioAmmo'
 }

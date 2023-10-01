@@ -100,7 +100,7 @@ defaultproperties
      bRecommendSplashDamage=True
      bModeExclusive=True
      FireAnimRate=1.200000
-     FireSound=Sound'tk_MayhemWeapons.AVRiL.avrilindiv'
+     FireSound=Sound'mm_MayhemWeapons.AVRiL.avrilindiv'
      FireRate=0.800000
-     ProjectileClass=Class'tk_Mayhemweapons.MayhemONSAVRiLWolf'
+     ProjectileClass=Class'mm_MayhemWeapons.MayhemONSAVRiLWolf'
 }

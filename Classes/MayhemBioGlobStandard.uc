@@ -2,5 +2,5 @@ Class MayhemBioGlobStandard extends BioGlob;
 
 defaultproperties
 {
-     MyDamageType=Class'tk_Mayhemweapons.DamageTypeMayhemBioGlob'
+     MyDamageType=Class'mm_MayhemWeapons.DamageTypeMayhemBioGlob'
 }

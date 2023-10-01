@@ -26,5 +26,5 @@ simulated function Explode(vector HitLocation, vector HitNormal)
 defaultproperties
 {
      ExplodeOffSet=20.000000
-     MyDamageType=Class'tk_Mayhemweapons.DamageTypeRocketAbstract'
+     MyDamageType=Class'mm_MayhemWeapons.DamageTypeRocketAbstract'
 }

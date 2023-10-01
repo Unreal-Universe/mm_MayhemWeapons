@@ -3,6 +3,6 @@ class MayhemMinigunAmmoPickup extends MinigunAmmoPickup;
 defaultproperties
 {
      AmmoAmount=70
-     InventoryType=Class'tk_Mayhemweapons.MayhemMinigunAmmo'
+     InventoryType=Class'mm_MayhemWeapons.MayhemMinigunAmmo'
      PickupMessage="You picked up 70 bullets."
 }

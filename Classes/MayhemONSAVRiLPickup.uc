@@ -2,7 +2,7 @@ class MayhemONSAVRiLPickup extends ONSAVRiLPickup;
 
 static function StaticPrecache(LevelInfo L)
 {
-        L.AddPrecacheMaterial(Texture'tk_MayhemWeapons.newavril');
+        L.AddPrecacheMaterial(Texture'mm_MayhemWeapons.newavril');
         L.AddPrecacheMaterial(Texture'VMWeaponsTX.PlayerWeaponsGroup.AVRiLtex');
 	L.AddPrecacheMaterial(Texture'AW-2004Particles.Weapons.DustSmoke');
     L.AddPrecacheMaterial(Texture'ONSInterface-TX.avrilRETICLE');
@@ -13,7 +13,7 @@ static function StaticPrecache(LevelInfo L)
 
 simulated function UpdatePrecacheMaterials()
 {
-        Level.AddPrecacheMaterial(Texture'tk_MayhemWeapons.newavril');
+        Level.AddPrecacheMaterial(Texture'mm_MayhemWeapons.newavril');
         Level.AddPrecacheMaterial(Texture'VMWeaponsTX.PlayerWeaponsGroup.AVRiLtex');
 	Level.AddPrecacheMaterial(Texture'VMParticleTextures.VehicleExplosions.VMExp2_framesANIM');
 	Level.AddPrecacheMaterial(Texture'AW-2004Particles.Weapons.DustSmoke');
@@ -24,7 +24,7 @@ simulated function UpdatePrecacheMaterials()
 
 defaultproperties
 {
-     InventoryType=Class'tk_Mayhemweapons.MayhemONSAVRiL'
+     InventoryType=Class'mm_MayhemWeapons.MayhemONSAVRiL'
      PickupMessage="You got the Mayhem AVRiL."
-     Skins(0)=Texture'tk_MayhemWeapons.newavril'
+     Skins(0)=Texture'mm_MayhemWeapons.newavril'
 }

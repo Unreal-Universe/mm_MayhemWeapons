@@ -7,21 +7,21 @@ static function StaticPrecache(LevelInfo L)
     L.AddPrecacheMaterial(Texture'XGameShaders.bio_flash');
     L.AddPrecacheMaterial(Texture'WeaponSkins.BioGoo.BRInnerGoo');
     L.AddPrecacheMaterial(Texture'WeaponSkins.BioGoo.BRInnerBubbles');
-    L.AddPrecacheMaterial(Texture'tk_MayhemWeapons.NewBio');
+    L.AddPrecacheMaterial(Texture'mm_MayhemWeapons.NewBio');
 
 	L.AddPrecacheStaticMesh(StaticMesh'WeaponStaticMesh.BioRiflePickup');
 }
 
 simulated function UpdatePrecacheMaterials()
 {
-    Level.AddPrecacheMaterial(Texture'tk_MayhemWeapons.newbio');
+    Level.AddPrecacheMaterial(Texture'mm_MayhemWeapons.newbio');
 
 	super.UpdatePrecacheMaterials();
 }
 
 defaultproperties
 {
-     InventoryType=Class'tk_Mayhemweapons.MayhemBioRifle'
+     InventoryType=Class'mm_MayhemWeapons.MayhemBioRifle'
      PickupMessage="You got the Mayhem Bio-Rifle"
-     Skins(0)=Texture'tk_MayhemWeapons.newbio'
+     Skins(0)=Texture'mm_MayhemWeapons.newbio'
 }

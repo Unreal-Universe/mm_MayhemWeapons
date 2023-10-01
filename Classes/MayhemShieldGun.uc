@@ -77,11 +77,11 @@ exec function ToggleMayhemWeaponMode()
 defaultproperties
 {
      AmmoShieldMult=3.500000
-     FireModeClass(0)=Class'tk_Mayhemweapons.MayhemShieldFire'
-     FireModeClass(1)=Class'tk_Mayhemweapons.MayhemShieldAltFire'
-     PickupClass=Class'tk_Mayhemweapons.MayhemShieldGunPickup'
-     AttachmentClass=Class'tk_Mayhemweapons.MayhemShieldAttachment'
-     IconMaterial=Texture'tk_MayhemWeapons.Generic.HUD'
+     FireModeClass(0)=Class'mm_MayhemWeapons.MayhemShieldFire'
+     FireModeClass(1)=Class'mm_MayhemWeapons.MayhemShieldAltFire'
+     PickupClass=Class'mm_MayhemWeapons.MayhemShieldGunPickup'
+     AttachmentClass=Class'mm_MayhemWeapons.MayhemShieldAttachment'
+     IconMaterial=Texture'mm_MayhemWeapons.Generic.HUD'
      ItemName="Mayhem Shield Gun"
-     Skins(0)=Texture'tk_MayhemWeapons.newshield'
+     Skins(0)=Texture'mm_MayhemWeapons.newshield'
 }

@@ -4,6 +4,6 @@ defaultproperties
 {
      MaxAmmo=60
      InitialAmount=25
-     PickupClass=Class'tk_Mayhemweapons.MayhemShockAmmoPickup'
-     IconMaterial=Texture'tk_MayhemWeapons.Generic.HUD'
+     PickupClass=Class'mm_MayhemWeapons.MayhemShockAmmoPickup'
+     IconMaterial=Texture'mm_MayhemWeapons.Generic.HUD'
 }

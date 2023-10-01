@@ -2,13 +2,13 @@ class ColorShockComboToxic extends ColorShockCombo;
 
 defaultproperties
 {
-     ExpRing=Class'tk_Mayhemweapons.ColorShockComboExpRingToxic'
-     ComboFlare=Class'tk_Mayhemweapons.ColorShockComboFlareToxic'
-     Core=Class'tk_Mayhemweapons.ColorShockComboCoreToxic'
-     SphereDark=Class'tk_Mayhemweapons.ColorShockComboSphereDarkToxic'
-     Vortex=Class'tk_Mayhemweapons.ColorShockComboVortexToxic'
-     Wiggles=Class'tk_Mayhemweapons.ColorShockComboWigglesToxic'
-     Flash=Class'tk_Mayhemweapons.ColorShockComboFlashToxic'
+     ExpRing=Class'mm_MayhemWeapons.ColorShockComboExpRingToxic'
+     ComboFlare=Class'mm_MayhemWeapons.ColorShockComboFlareToxic'
+     Core=Class'mm_MayhemWeapons.ColorShockComboCoreToxic'
+     SphereDark=Class'mm_MayhemWeapons.ColorShockComboSphereDarkToxic'
+     Vortex=Class'mm_MayhemWeapons.ColorShockComboVortexToxic'
+     Wiggles=Class'mm_MayhemWeapons.ColorShockComboWigglesToxic'
+     Flash=Class'mm_MayhemWeapons.ColorShockComboFlashToxic'
      LightHue=70
      LightSaturation=50
 }

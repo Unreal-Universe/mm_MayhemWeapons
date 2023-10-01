@@ -29,9 +29,9 @@ simulated function Explode(vector HitLocation, vector HitNormal)
 
 defaultproperties
 {
-     AirTrailClass=Class'tk_Mayhemweapons.EffectRocketFragTrail'
-     AirExplosionClass=Class'tk_Mayhemweapons.EffectRocketFragExplosion'
-     AirExplosionSound=Sound'tk_MayhemWeapons.Rocket.fragmentation'
+     AirTrailClass=Class'mm_MayhemWeapons.EffectRocketFragTrail'
+     AirExplosionClass=Class'mm_MayhemWeapons.EffectRocketFragExplosion'
+     AirExplosionSound=Sound'mm_MayhemWeapons.Rocket.fragmentation'
      AirVolumeMult=4.000000
      WaterVolumeMult=3.500000
      Damage=50.000000

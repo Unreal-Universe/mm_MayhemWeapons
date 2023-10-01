@@ -2,5 +2,5 @@ class DamageTypeMayhemONSGrenade extends DamTypeONSGrenade Abstract;
 
 defaultproperties
 {
-     WeaponClass=Class'tk_Mayhemweapons.MayhemONSGrenadeLauncher'
+     WeaponClass=Class'mm_MayhemWeapons.MayhemONSGrenadeLauncher'
 }

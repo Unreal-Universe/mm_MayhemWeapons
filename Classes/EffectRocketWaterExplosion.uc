@@ -27,7 +27,7 @@ defaultproperties
          TextureVSubdivisions=4
          LifetimeRange=(Min=0.400000,Max=0.400000)
      End Object
-     Emitters(0)=SpriteEmitter'tk_MayhemWeapons.EffectRocketWaterExplosion.SpriteEmitter1'
+     Emitters(0)=SpriteEmitter'mm_MayhemWeapons.EffectRocketWaterExplosion.SpriteEmitter1'
 
      Begin Object Class=SpriteEmitter Name=SpriteEmitter2
          UseColorScale=True
@@ -48,7 +48,7 @@ defaultproperties
          Texture=Texture'AW-2004Particles.Energy.JumpDuck'
          LifetimeRange=(Min=0.300000,Max=0.300000)
      End Object
-     Emitters(1)=SpriteEmitter'tk_MayhemWeapons.EffectRocketWaterExplosion.SpriteEmitter2'
+     Emitters(1)=SpriteEmitter'mm_MayhemWeapons.EffectRocketWaterExplosion.SpriteEmitter2'
 
      Begin Object Class=SpriteEmitter Name=SpriteEmitter4
          FadeOut=True
@@ -80,7 +80,7 @@ defaultproperties
          StartVelocityRadialRange=(Max=-50.000000)
          GetVelocityDirectionFrom=PTVD_AddRadial
      End Object
-     Emitters(2)=SpriteEmitter'tk_MayhemWeapons.EffectRocketWaterExplosion.SpriteEmitter4'
+     Emitters(2)=SpriteEmitter'mm_MayhemWeapons.EffectRocketWaterExplosion.SpriteEmitter4'
 
      Begin Object Class=SpriteEmitter Name=SpriteEmitter5
          FadeOut=True
@@ -103,7 +103,7 @@ defaultproperties
          LifetimeRange=(Min=0.500000,Max=0.500000)
          StartVelocityRange=(Z=(Min=50.000000,Max=100.000000))
      End Object
-     Emitters(3)=SpriteEmitter'tk_MayhemWeapons.EffectRocketWaterExplosion.SpriteEmitter5'
+     Emitters(3)=SpriteEmitter'mm_MayhemWeapons.EffectRocketWaterExplosion.SpriteEmitter5'
 
      AutoDestroy=True
      LightType=LT_FadeOut

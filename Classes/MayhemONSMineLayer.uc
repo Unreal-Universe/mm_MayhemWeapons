@@ -44,12 +44,12 @@ defaultproperties
 {
      ModeCycleSound=Sound'WeaponSounds.BaseGunTech.BReload4'
      MaxMines=12
-     FireModeClass(0)=Class'tk_Mayhemweapons.MayhemONSMineThrowFire'
-     FireModeClass(1)=Class'tk_Mayhemweapons.MayhemONSMineLayerAltFire'
-     AmmoClass(0)=Class'tk_Mayhemweapons.MayhemONSMineAmmo'
-     PickupClass=Class'tk_Mayhemweapons.MayhemONSMineLayerPickup'
-     AttachmentClass=Class'tk_Mayhemweapons.MayhemONSMineLayerAttachment'
-     IconMaterial=Texture'tk_MayhemWeapons.Generic.HUD'
+     FireModeClass(0)=Class'mm_MayhemWeapons.MayhemONSMineThrowFire'
+     FireModeClass(1)=Class'mm_MayhemWeapons.MayhemONSMineLayerAltFire'
+     AmmoClass(0)=Class'mm_MayhemWeapons.MayhemONSMineAmmo'
+     PickupClass=Class'mm_MayhemWeapons.MayhemONSMineLayerPickup'
+     AttachmentClass=Class'mm_MayhemWeapons.MayhemONSMineLayerAttachment'
+     IconMaterial=Texture'mm_MayhemWeapons.Generic.HUD'
      ItemName="Mayhem Mine Layer"
-     Skins(0)=Texture'tk_MayhemWeapons.newminelayer'
+     Skins(0)=Texture'mm_MayhemWeapons.newminelayer'
 }

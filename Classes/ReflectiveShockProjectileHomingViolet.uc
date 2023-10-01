@@ -2,11 +2,11 @@ class ReflectiveShockProjectileHomingViolet extends ReflectiveShockProjectileHom
 
 defaultproperties
 {
-     ComboClass=Class'tk_Mayhemweapons.ColorShockComboViolet'
-     ShockBallClass=Class'tk_Mayhemweapons.ReflectiveShockBallViolet'
-     ExplosionCoreClass=Class'tk_Mayhemweapons.ColorShockExplosionCoreViolet'
-     ExplosionClass=Class'tk_Mayhemweapons.ColorShockExplosionViolet'
-     MyDamageType=Class'tk_Mayhemweapons.DamageTypeMayhemShockProjViolet'
+     ComboClass=Class'mm_MayhemWeapons.ColorShockComboViolet'
+     ShockBallClass=Class'mm_MayhemWeapons.ReflectiveShockBallViolet'
+     ExplosionCoreClass=Class'mm_MayhemWeapons.ColorShockExplosionCoreViolet'
+     ExplosionClass=Class'mm_MayhemWeapons.ColorShockExplosionViolet'
+     MyDamageType=Class'mm_MayhemWeapons.DamageTypeMayhemShockProjViolet'
      LightHue=175
      LightSaturation=50
      Texture=Texture'XEffectMat.Shock.shock_core_low'

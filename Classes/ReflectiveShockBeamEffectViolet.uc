@@ -2,13 +2,13 @@ class ReflectiveShockBeamEffectViolet extends ReflectiveShockBeamEffect;
 
 defaultproperties
 {
-     Core=Class'tk_Mayhemweapons.ColorShockExplosionCoreViolet'
-     Scorch=Class'tk_Mayhemweapons.ReflectiveShockImpactScorchViolet'
-     Ring=Class'tk_Mayhemweapons.ReflectiveShockImpactRingViolet'
-     Flare=Class'tk_Mayhemweapons.ReflectiveShockImpactFlareViolet'
-     CoilClass=Class'tk_Mayhemweapons.ReflectiveShockCoilEffectViolet'
-     MuzFlashClass=Class'tk_Mayhemweapons.ReflectiveShockMuzFlashViolet'
-     MuzFlash3Class=Class'tk_Mayhemweapons.ReflectiveShockMuzFlash3rdViolet'
+     Core=Class'mm_MayhemWeapons.ColorShockExplosionCoreViolet'
+     Scorch=Class'mm_MayhemWeapons.ReflectiveShockImpactScorchViolet'
+     Ring=Class'mm_MayhemWeapons.ReflectiveShockImpactRingViolet'
+     Flare=Class'mm_MayhemWeapons.ReflectiveShockImpactFlareViolet'
+     CoilClass=Class'mm_MayhemWeapons.ReflectiveShockCoilEffectViolet'
+     MuzFlashClass=Class'mm_MayhemWeapons.ReflectiveShockMuzFlashViolet'
+     MuzFlash3Class=Class'mm_MayhemWeapons.ReflectiveShockMuzFlash3rdViolet'
      Texture=Texture'XWeapons_rc.Effects.ShockBeamTex'
      Skins(0)=Texture'XWeapons_rc.Effects.ShockBeamTex'
 }

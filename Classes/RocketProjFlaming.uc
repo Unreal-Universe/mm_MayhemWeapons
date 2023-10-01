@@ -124,14 +124,14 @@ defaultproperties
 {
      FlameDamage(0)=4.500000
      FlameDamage(1)=3.000000
-     AirTrailClass=Class'tk_Mayhemweapons.EffectRocketFlaming'
-     AirExplosionClass=Class'tk_Mayhemweapons.EffectRocketFlamingExplosion'
-     AirExplosionSound=Sound'tk_MayhemWeapons.Rocket.incendiary'
+     AirTrailClass=Class'mm_MayhemWeapons.EffectRocketFlaming'
+     AirExplosionClass=Class'mm_MayhemWeapons.EffectRocketFlamingExplosion'
+     AirExplosionSound=Sound'mm_MayhemWeapons.Rocket.incendiary'
      AirVolumeMult=3.500000
      WaterVolumeMult=3.500000
      Damage=30.000000
      MomentumTransfer=30000.000000
-     MyDamageType=Class'tk_Mayhemweapons.DamageTypeRocketFlaming'
+     MyDamageType=Class'mm_MayhemWeapons.DamageTypeRocketFlaming'
      LightHue=20
      LightRadius=6.000000
 }

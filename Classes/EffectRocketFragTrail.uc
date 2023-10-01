@@ -37,7 +37,7 @@ defaultproperties
          TextureVSubdivisions=1
          LifetimeRange=(Min=0.200000,Max=0.250000)
      End Object
-     Emitters(0)=SpriteEmitter'tk_MayhemWeapons.EffectRocketFragTrail.SpriteEmitter0'
+     Emitters(0)=SpriteEmitter'mm_MayhemWeapons.EffectRocketFragTrail.SpriteEmitter0'
 
      Begin Object Class=SpriteEmitter Name=SpriteEmitter1
          FadeOut=True
@@ -57,7 +57,7 @@ defaultproperties
          Texture=Texture'EpicParticles.Flares.SoftFlare'
          LifetimeRange=(Min=0.500000,Max=0.500000)
      End Object
-     Emitters(1)=SpriteEmitter'tk_MayhemWeapons.EffectRocketFragTrail.SpriteEmitter1'
+     Emitters(1)=SpriteEmitter'mm_MayhemWeapons.EffectRocketFragTrail.SpriteEmitter1'
 
      Begin Object Class=SpriteEmitter Name=SpriteEmitter2
          FadeOut=True
@@ -89,7 +89,7 @@ defaultproperties
          LifetimeRange=(Min=1.000000,Max=1.250000)
          StartVelocityRange=(X=(Min=-15.000000,Max=15.000000),Y=(Min=-15.000000,Max=15.000000),Z=(Min=-15.000000,Max=15.000000))
      End Object
-     Emitters(2)=SpriteEmitter'tk_MayhemWeapons.EffectRocketFragTrail.SpriteEmitter2'
+     Emitters(2)=SpriteEmitter'mm_MayhemWeapons.EffectRocketFragTrail.SpriteEmitter2'
 
      Begin Object Class=SparkEmitter Name=SparkEmitter0
          LineSegmentsRange=(Min=0.100000,Max=0.100000)
@@ -105,7 +105,7 @@ defaultproperties
          LifetimeRange=(Min=0.500000,Max=0.500000)
          StartVelocityRange=(X=(Min=-500.000000,Max=-700.000000),Y=(Min=-100.000000,Max=100.000000),Z=(Min=-50.000000,Max=100.000000))
      End Object
-     Emitters(3)=SparkEmitter'tk_MayhemWeapons.EffectRocketFragTrail.SparkEmitter0'
+     Emitters(3)=SparkEmitter'mm_MayhemWeapons.EffectRocketFragTrail.SparkEmitter0'
 
      AutoDestroy=True
      bNoDelete=False

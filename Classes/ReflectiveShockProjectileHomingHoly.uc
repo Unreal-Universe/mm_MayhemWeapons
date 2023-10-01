@@ -2,9 +2,9 @@ class ReflectiveShockProjectileHomingHoly extends ReflectiveShockProjectileHomin
 
 defaultproperties
 {
-     ComboClass=Class'tk_Mayhemweapons.ColorShockComboHoly'
-     ShockBallClass=Class'tk_Mayhemweapons.ReflectiveShockBallHoly'
-     ExplosionCoreClass=Class'tk_Mayhemweapons.ColorShockExplosionCoreHoly'
-     ExplosionClass=Class'tk_Mayhemweapons.ColorShockExplosionHoly'
-     MyDamageType=Class'tk_Mayhemweapons.DamageTypeMayhemShockProjHoly'
+     ComboClass=Class'mm_MayhemWeapons.ColorShockComboHoly'
+     ShockBallClass=Class'mm_MayhemWeapons.ReflectiveShockBallHoly'
+     ExplosionCoreClass=Class'mm_MayhemWeapons.ColorShockExplosionCoreHoly'
+     ExplosionClass=Class'mm_MayhemWeapons.ColorShockExplosionHoly'
+     MyDamageType=Class'mm_MayhemWeapons.DamageTypeMayhemShockProjHoly'
 }

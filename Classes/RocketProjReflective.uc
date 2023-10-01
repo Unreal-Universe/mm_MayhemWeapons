@@ -32,7 +32,7 @@ simulated function HitWall( vector HitNormal, actor Wall )
     if (ReflectNum < ReflectMaxNum)
     {
         BounceProjectile(HitNormal);
-        Playsound(Sound'tk_MayhemWeapons.Rocket.newreflect');
+        Playsound(Sound'mm_MayhemWeapons.Rocket.newreflect');
         //log("Reflection"@ReflectNum$"/"$ReflectMaxNum);
         ReflectNum++;
         return;
@@ -176,6 +176,6 @@ defaultproperties
      DampeningFactor=0.070000
      ReflectMaxNum=5
      AccelerationForce=2000.000000
-     MyDamageType=Class'tk_Mayhemweapons.DamageTypeRocketReflective'
+     MyDamageType=Class'mm_MayhemWeapons.DamageTypeRocketReflective'
      bBounce=True
 }

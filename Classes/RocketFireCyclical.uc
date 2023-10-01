@@ -68,5 +68,5 @@ function ERocketType DetermineBotRocket(Bot B)       // For bots Support
 
 defaultproperties
 {
-     AmmoClass=Class'tk_Mayhemweapons.MayhemRocketAmmo'
+     AmmoClass=Class'mm_MayhemWeapons.MayhemRocketAmmo'
 }

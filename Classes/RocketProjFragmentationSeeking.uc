@@ -56,6 +56,6 @@ simulated function PostBeginPlay()
 
 defaultproperties
 {
-     MyDamageType=Class'tk_Mayhemweapons.DamageTypeRocketFragmentation'
+     MyDamageType=Class'mm_MayhemWeapons.DamageTypeRocketFragmentation'
      LifeSpan=10.000000
 }

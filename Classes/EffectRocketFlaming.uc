@@ -40,7 +40,7 @@ defaultproperties
          Texture=Texture'AW-2004Particles.Weapons.PlasmaStarRed'
          LifetimeRange=(Min=0.200000,Max=0.200000)
      End Object
-     Emitters(0)=SpriteEmitter'tk_MayhemWeapons.EffectRocketFlaming.SpriteEmitter0'
+     Emitters(0)=SpriteEmitter'mm_MayhemWeapons.EffectRocketFlaming.SpriteEmitter0'
 
      Begin Object Class=SpriteEmitter Name=SpriteEmitter1
          UseDirectionAs=PTDU_Right
@@ -58,7 +58,7 @@ defaultproperties
          StartVelocityRange=(X=(Max=10.000000))
          VelocityLossRange=(X=(Min=1.000000,Max=1.000000))
      End Object
-     Emitters(1)=SpriteEmitter'tk_MayhemWeapons.EffectRocketFlaming.SpriteEmitter1'
+     Emitters(1)=SpriteEmitter'mm_MayhemWeapons.EffectRocketFlaming.SpriteEmitter1'
 
      Begin Object Class=SpriteEmitter Name=SpriteEmitter2
          UseColorScale=True
@@ -88,7 +88,7 @@ defaultproperties
          WarmupTicksPerSecond=1.000000
          RelativeWarmupTime=2.000000
      End Object
-     Emitters(2)=SpriteEmitter'tk_MayhemWeapons.EffectRocketFlaming.SpriteEmitter2'
+     Emitters(2)=SpriteEmitter'mm_MayhemWeapons.EffectRocketFlaming.SpriteEmitter2'
 
      Begin Object Class=SpriteEmitter Name=SpriteEmitter3
          FadeOut=True
@@ -104,7 +104,7 @@ defaultproperties
          Texture=Texture'EpicParticles.Flares.SoftFlare'
          LifetimeRange=(Min=0.500000,Max=0.500000)
      End Object
-     Emitters(3)=SpriteEmitter'tk_MayhemWeapons.EffectRocketFlaming.SpriteEmitter3'
+     Emitters(3)=SpriteEmitter'mm_MayhemWeapons.EffectRocketFlaming.SpriteEmitter3'
 
      Begin Object Class=SpriteEmitter Name=SpriteEmitter4
          UseColorScale=True
@@ -136,7 +136,7 @@ defaultproperties
          LifetimeRange=(Min=1.000000,Max=1.200000)
          StartVelocityRange=(X=(Min=15.000000,Max=-15.000000),Y=(Min=-15.000000,Max=15.000000),Z=(Min=-15.000000,Max=15.000000))
      End Object
-     Emitters(4)=SpriteEmitter'tk_MayhemWeapons.EffectRocketFlaming.SpriteEmitter4'
+     Emitters(4)=SpriteEmitter'mm_MayhemWeapons.EffectRocketFlaming.SpriteEmitter4'
 
      bNoDelete=False
      LifeSpan=10.000000

@@ -128,14 +128,14 @@ Simulated Function MakeAirTrail()
 
 defaultproperties
 {
-     AirTrailClass=Class'tk_Mayhemweapons.EffectRocketTrailStandard'
-     WaterTrailClass=Class'tk_Mayhemweapons.EffectRocketSwimming'
+     AirTrailClass=Class'mm_MayhemWeapons.EffectRocketTrailStandard'
+     WaterTrailClass=Class'mm_MayhemWeapons.EffectRocketSwimming'
      AirExplosionClass=Class'XEffects.NewExplosionA'
-     WaterExplosionClass=Class'tk_Mayhemweapons.EffectRocketWaterExplosion'
-     WaterExplosionSound=Sound'tk_MayhemWeapons.Rocket.inc_underwater'
+     WaterExplosionClass=Class'mm_MayhemWeapons.EffectRocketWaterExplosion'
+     WaterExplosionSound=Sound'mm_MayhemWeapons.Rocket.inc_underwater'
      AirExplosionSound=Sound'WeaponSounds.BaseImpactAndExplosions.BExplosion3'
      AirVolumeMult=2.500000
      WaterVolumeMult=6.000000
-     Skins(0)=Texture'tk_MayhemWeapons.RocketShellTexGold'
+     Skins(0)=Texture'mm_MayhemWeapons.RocketShellTexGold'
      bRotateToDesired=True
 }

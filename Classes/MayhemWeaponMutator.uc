@@ -1,7 +1,7 @@
 class MayhemWeaponMutator extends ColorManager 
     Config(tk_WeaponsClient);
 
-#EXEC OBJ LOAD FILE="Resources/tk_MayhemWeapons_rc.u" PACKAGE="tk_MayhemWeapons"
+#EXEC OBJ LOAD FILE="Resources/tk_MayhemWeapons_rc.u" PACKAGE="mm_MayhemWeapons"
 
 //Display and hint text-------
 var localized Array<string>  // Array indexes: 0 = DISPLAY TEXT, 1 = TOOLTIP TEXT
@@ -21,7 +21,7 @@ var config float FlaksTrailLength;
 //Strings-----------------------
 var config string sFlaksTrailColor, sRocketTrailColor, sShockColor, sLinkColor;
 var string FlaksColorOptions, RocketColorOptions, ShockColorOptions, LinkColorOptions;
-const M_W = "tk_MayhemWeapons.Mayhem";  // Used in replacement of weapons and ammo classes.
+const M_W = "mm_MayhemWeapons.Mayhem";  // Used in replacement of weapons and ammo classes.
 
 //Interaction stuff
 var bool bAffectSpectators, // If this is set to true, an interaction will be created for spectators
@@ -42,7 +42,7 @@ simulated function Tick(float DeltaTime)
     // Run a check to see whether this mutator should create an interaction for the player
     if ( Level.GetLocalPlayerController() != None && ((Level.GetLocalPlayerController().PlayerReplicationInfo.bIsSpectator && bAffectSpectators) || (bAffectPlayers && !Level.GetLocalPlayerController().PlayerReplicationInfo.bIsSpectator)) )
     {
-        Level.GetLocalPlayerController().Player.InteractionMaster.AddInteraction("tk_MayhemWeapons.MayhemInteraction", Level.GetLocalPlayerController().Player); // Create the interaction
+        Level.GetLocalPlayerController().Player.InteractionMaster.AddInteraction("mm_MayhemWeapons.MayhemInteraction", Level.GetLocalPlayerController().Player); // Create the interaction
         bHasInteraction = True; // Set the variable so this lot isn't called again
     }
 }

@@ -127,12 +127,12 @@ defaultproperties
 {
      ModeCycleSound=Sound'WeaponSounds.BaseGunTech.BReload5'
      CurrentLinkIndex=1
-     FireModeClass(0)=Class'tk_Mayhemweapons.ReflectiveLinkAltFire'
-     FireModeClass(1)=Class'tk_Mayhemweapons.LinkFireExtendable'
-     AmmoClass(0)=Class'tk_Mayhemweapons.MayhemLinkAmmo'
-     PickupClass=Class'tk_Mayhemweapons.MayhemLinkGunPickup'
-     AttachmentClass=Class'tk_Mayhemweapons.ReflectiveLinkAttachment'
-     IconMaterial=Texture'tk_MayhemWeapons.Generic.HUD'
+     FireModeClass(0)=Class'mm_MayhemWeapons.ReflectiveLinkAltFire'
+     FireModeClass(1)=Class'mm_MayhemWeapons.LinkFireExtendable'
+     AmmoClass(0)=Class'mm_MayhemWeapons.MayhemLinkAmmo'
+     PickupClass=Class'mm_MayhemWeapons.MayhemLinkGunPickup'
+     AttachmentClass=Class'mm_MayhemWeapons.ReflectiveLinkAttachment'
+     IconMaterial=Texture'mm_MayhemWeapons.Generic.HUD'
      ItemName="Mayhem Link Gun"
-     Skins(0)=Texture'tk_MayhemWeapons.LinkGunTex'
+     Skins(0)=Texture'mm_MayhemWeapons.LinkGunTex'
 }

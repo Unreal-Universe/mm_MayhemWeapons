@@ -2,5 +2,5 @@ class MayhemMiniGunAttachment extends MinigunAttachment;
 
 defaultproperties
 {
-     Skins(0)=Texture'tk_MayhemWeapons.newminigun'
+     Skins(0)=Texture'mm_MayhemWeapons.newminigun'
 }

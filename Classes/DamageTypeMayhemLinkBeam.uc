@@ -2,5 +2,5 @@ class DamageTypeMayhemLinkBeam extends DamTypeLinkShaft abstract;
 
 defaultproperties
 {
-     WeaponClass=Class'tk_Mayhemweapons.MayhemLinkGun'
+     WeaponClass=Class'mm_MayhemWeapons.MayhemLinkGun'
 }

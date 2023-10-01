@@ -148,14 +148,14 @@ defaultproperties
 {
      ReflectMaxNum=5
      DampeningFactor=0.150000
-     ComboClass=Class'tk_Mayhemweapons.ColorShockCombo'
-     ShockBallClass=Class'tk_Mayhemweapons.ReflectiveShockBall'
-     ExplosionCoreClass=Class'tk_Mayhemweapons.ColorShockExplosionCore'
-     ExplosionClass=Class'tk_Mayhemweapons.ColorShockExplosion'
-     ComboDamageType=Class'tk_Mayhemweapons.DamageTypeMayhemShockCombo'
-     MyDamageType=Class'tk_Mayhemweapons.DamageTypeMayhemShockProj'
+     ComboClass=Class'mm_MayhemWeapons.ColorShockCombo'
+     ShockBallClass=Class'mm_MayhemWeapons.ReflectiveShockBall'
+     ExplosionCoreClass=Class'mm_MayhemWeapons.ColorShockExplosionCore'
+     ExplosionClass=Class'mm_MayhemWeapons.ColorShockExplosion'
+     ComboDamageType=Class'mm_MayhemWeapons.DamageTypeMayhemShockCombo'
+     MyDamageType=Class'mm_MayhemWeapons.DamageTypeMayhemShockProj'
      LightHue=0
      LightSaturation=255
-     Texture=Texture'tk_MayhemWeapons.Shock.shock_core_low_desat'
-     Skins(0)=Texture'tk_MayhemWeapons.Shock.shock_core_low_desat'
+     Texture=Texture'mm_MayhemWeapons.Shock.shock_core_low_desat'
+     Skins(0)=Texture'mm_MayhemWeapons.Shock.shock_core_low_desat'
 }

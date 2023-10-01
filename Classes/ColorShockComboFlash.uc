@@ -2,5 +2,5 @@ class ColorShockComboFlash extends ShockComboFlash;
 
 defaultproperties
 {
-     Skins(0)=Texture'tk_MayhemWeapons.Shock.ShockComboFlash'
+     Skins(0)=Texture'mm_MayhemWeapons.Shock.ShockComboFlash'
 }

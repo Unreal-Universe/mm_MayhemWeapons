@@ -2,13 +2,13 @@ class ColorShockComboIce extends ColorShockCombo;
 
 defaultproperties
 {
-     ExpRing=Class'tk_Mayhemweapons.ColorShockComboExpRingIce'
-     ComboFlare=Class'tk_Mayhemweapons.ColorShockComboFlareIce'
-     Core=Class'tk_Mayhemweapons.ColorShockComboCoreIce'
-     SphereDark=Class'tk_Mayhemweapons.ColorShockComboSphereDarkIce'
-     Vortex=Class'tk_Mayhemweapons.ColorShockComboVortexIce'
-     Wiggles=Class'tk_Mayhemweapons.ColorShockComboWigglesIce'
-     Flash=Class'tk_Mayhemweapons.ColorShockComboFlashIce'
+     ExpRing=Class'mm_MayhemWeapons.ColorShockComboExpRingIce'
+     ComboFlare=Class'mm_MayhemWeapons.ColorShockComboFlareIce'
+     Core=Class'mm_MayhemWeapons.ColorShockComboCoreIce'
+     SphereDark=Class'mm_MayhemWeapons.ColorShockComboSphereDarkIce'
+     Vortex=Class'mm_MayhemWeapons.ColorShockComboVortexIce'
+     Wiggles=Class'mm_MayhemWeapons.ColorShockComboWigglesIce'
+     Flash=Class'mm_MayhemWeapons.ColorShockComboFlashIce'
      LightHue=150
      LightSaturation=175
 }

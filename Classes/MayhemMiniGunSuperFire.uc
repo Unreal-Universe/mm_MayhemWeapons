@@ -73,7 +73,7 @@ defaultproperties
      OverHeatSound=Sound'IndoorAmbience.door14'
      MinigunMode=1
      BarrelRotationsPerSec=5.000000
-     FiringSound=Sound'tk_MayhemWeapons.Minigun.newmini'
+     FiringSound=Sound'mm_MayhemWeapons.Minigun.newmini'
      MinigunSoundVolume=250
      WindUpTime=0.500000
      DamageMin=5

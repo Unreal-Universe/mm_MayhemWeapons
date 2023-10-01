@@ -22,6 +22,6 @@ defaultproperties
          LifetimeRange=(Min=0.020000,Max=0.020000)
          StartVelocityRange=(X=(Min=1.000000,Max=1.000000))
      End Object
-     Emitters(0)=BeamEmitter'tk_MayhemWeapons.MayhemONSMineLayerBeamEffectEMP.BeamEmitter0'
+     Emitters(0)=BeamEmitter'mm_MayhemWeapons.MayhemONSMineLayerBeamEffectEMP.BeamEmitter0'
 
 }

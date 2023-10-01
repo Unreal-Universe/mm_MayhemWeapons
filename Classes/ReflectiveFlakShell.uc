@@ -40,5 +40,5 @@ simulated function Explode(vector HitLocation, vector HitNormal)
 
 defaultproperties
 {
-     MyDamageType=Class'tk_Mayhemweapons.DamageTypeMayhemFlakShell'
+     MyDamageType=Class'mm_MayhemWeapons.DamageTypeMayhemFlakShell'
 }

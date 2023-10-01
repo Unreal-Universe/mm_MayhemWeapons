@@ -2,5 +2,5 @@ class ReflectiveShockImpactScorchToxic extends ReflectiveShockImpactScorch;
 
 defaultproperties
 {
-     ProjTexture=Texture'tk_MayhemWeapons.ShockHeatDecalGreen'
+     ProjTexture=Texture'mm_MayhemWeapons.ShockHeatDecalGreen'
 }

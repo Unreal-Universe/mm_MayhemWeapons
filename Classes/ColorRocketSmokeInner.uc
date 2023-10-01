@@ -26,6 +26,6 @@ defaultproperties
      mRandTextures=False
      mNumTileColumns=1
      mNumTileRows=1
-     Skins(0)=Texture'tk_MayhemWeapons.RocketTrailTex'
+     Skins(0)=Texture'mm_MayhemWeapons.RocketTrailTex'
      Style=STY_Additive
 }

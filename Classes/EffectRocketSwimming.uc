@@ -46,7 +46,7 @@ defaultproperties
          LifetimeRange=(Min=0.750000,Max=1.000000)
          StartVelocityRange=(X=(Min=-5.000000,Max=-5.000000),Y=(Min=-5.000000,Max=-5.000000),Z=(Min=-5.000000,Max=-5.000000))
      End Object
-     Emitters(4)=SpriteEmitter'tk_MayhemWeapons.EffectRocketSwimming.SpriteEmitter12'
+     Emitters(4)=SpriteEmitter'mm_MayhemWeapons.EffectRocketSwimming.SpriteEmitter12'
 
      bNoDelete=False
      LifeSpan=7.000000

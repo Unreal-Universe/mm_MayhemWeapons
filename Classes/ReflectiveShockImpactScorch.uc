@@ -2,5 +2,5 @@ class ReflectiveShockImpactScorch extends ShockImpactScorch;
 
 defaultproperties
 {
-     ProjTexture=Texture'tk_MayhemWeapons.ShockHeatDecalHoly'
+     ProjTexture=Texture'mm_MayhemWeapons.ShockHeatDecalHoly'
 }

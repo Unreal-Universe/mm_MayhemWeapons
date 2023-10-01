@@ -2,7 +2,7 @@ Class MayhemONSGrenadePickup extends ONSGrenadePickup;
 
 static function StaticPrecache(LevelInfo L)
 {
-        L.AddPrecacheMaterial(Texture'tk_MayhemWeapons.NewGrenadeLauncher');
+        L.AddPrecacheMaterial(Texture'mm_MayhemWeapons.NewGrenadeLauncher');
         L.AddPrecacheMaterial(Texture'VMWeaponsTX.PlayerWeaponsGroup.GrenadeTex');
 	L.AddPrecacheMaterial(Texture'EpicParticles.Smoke.Smokepuff2');
 	L.AddPrecacheMaterial(Texture'AW-2004Particles.Fire.GrenadeTest');
@@ -14,13 +14,13 @@ static function StaticPrecache(LevelInfo L)
 
 simulated function UpdatePrecacheMaterials()
 {
-        Level.AddPrecacheMaterial(Texture'tk_MayhemWeapons.NewGrenadeLauncher');
+        Level.AddPrecacheMaterial(Texture'mm_MayhemWeapons.NewGrenadeLauncher');
 	super.UpdatePrecacheMaterials();
 }
 
 defaultproperties
 {
-     InventoryType=Class'tk_Mayhemweapons.MayhemONSGrenadeLauncher'
+     InventoryType=Class'mm_MayhemWeapons.MayhemONSGrenadeLauncher'
      PickupMessage="You got the Mayhem Grenade Launcher."
-     Skins(0)=Texture'tk_MayhemWeapons.newgrenadelauncher'
+     Skins(0)=Texture'mm_MayhemWeapons.newgrenadelauncher'
 }

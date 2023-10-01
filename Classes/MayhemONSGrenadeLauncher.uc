@@ -65,12 +65,12 @@ defaultproperties
 {
      ModeCycleSound=Sound'WeaponSounds.BaseGunTech.BReload6'
      MaxGrenades=12
-     FireModeClass(0)=Class'tk_Mayhemweapons.MayhemONSGrenadeFire'
+     FireModeClass(0)=Class'mm_MayhemWeapons.MayhemONSGrenadeFire'
      bShowChargingBar=True
-     AmmoClass(0)=Class'tk_Mayhemweapons.MayhemONSGrenadeAmmo'
-     PickupClass=Class'tk_Mayhemweapons.MayhemONSGrenadePickup'
-     AttachmentClass=Class'tk_Mayhemweapons.MayhemONSGrenadeAttachment'
-     IconMaterial=Texture'tk_MayhemWeapons.Generic.HUD'
+     AmmoClass(0)=Class'mm_MayhemWeapons.MayhemONSGrenadeAmmo'
+     PickupClass=Class'mm_MayhemWeapons.MayhemONSGrenadePickup'
+     AttachmentClass=Class'mm_MayhemWeapons.MayhemONSGrenadeAttachment'
+     IconMaterial=Texture'mm_MayhemWeapons.Generic.HUD'
      ItemName="Mayhem Grenade Launcher"
-     Skins(0)=Texture'tk_MayhemWeapons.newgrenadelauncher'
+     Skins(0)=Texture'mm_MayhemWeapons.newgrenadelauncher'
 }

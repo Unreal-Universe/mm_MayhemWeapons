@@ -2,8 +2,8 @@ class MayhemRocketLauncherPickup extends RocketLauncherPickup;
 
 static function StaticPrecache(LevelInfo L)
 {
-    L.AddPrecacheMaterial(Texture'tk_MayhemWeapons.RocketTex');
-    L.AddPrecacheMaterial(Material'tk_MayhemWeapons.RocketShellTexGold');
+    L.AddPrecacheMaterial(Texture'mm_MayhemWeapons.RocketTex');
+    L.AddPrecacheMaterial(Material'mm_MayhemWeapons.RocketShellTexGold');
 
     L.AddPrecacheMaterial(Material'XEffects.RocketFlare');
     L.AddPrecacheMaterial(Material'XEffects.SmokeAlphab_t');
@@ -16,14 +16,14 @@ static function StaticPrecache(LevelInfo L)
 
 simulated function UpdatePrecacheMaterials()
 {
-    Level.AddPrecacheMaterial(Texture'tk_MayhemWeapons.RocketTex');
-    Level.AddPrecacheMaterial(Material'tk_MayhemWeapons.RocketShellTexGold');                                                                           // Add when ready
+    Level.AddPrecacheMaterial(Texture'mm_MayhemWeapons.RocketTex');
+    Level.AddPrecacheMaterial(Material'mm_MayhemWeapons.RocketShellTexGold');                                                                           // Add when ready
 	super.UpdatePrecacheMaterials();
 }
 
 defaultproperties
 {
-     InventoryType=Class'tk_mayhemweapons.MayhemRocketLauncher'
+     InventoryType=Class'mm_MayhemWeapons.MayhemRocketLauncher'
      PickupMessage="You got the Mayhem Rocket Launcher."
-     Skins(0)=Texture'tk_mayhemweapons.RocketTex'
+     Skins(0)=Texture'mm_MayhemWeapons.RocketTex'
 }

@@ -352,6 +352,6 @@ defaultproperties
      LengthTrace(0)=2200.000000
      LengthTrace(1)=1100.000000
      LengthTrace(2)=550.000000
-     DamageType=Class'tk_Mayhemweapons.DamageTypeMayhemLinkBeam'
-     AmmoClass=Class'tk_Mayhemweapons.MayhemLinkAmmo'
+     DamageType=Class'mm_MayhemWeapons.DamageTypeMayhemLinkBeam'
+     AmmoClass=Class'mm_MayhemWeapons.MayhemLinkAmmo'
 }

@@ -26,11 +26,11 @@ simulated Function PostBeginPlay()
 
 defaultproperties
 {
-     ExpRing=Class'tk_Mayhemweapons.ColorShockComboExpRing'
-     ComboFlare=Class'tk_Mayhemweapons.ColorShockComboFlare'
-     Core=Class'tk_Mayhemweapons.ColorShockComboCore'
-     SphereDark=Class'tk_Mayhemweapons.ColorShockComboSphereDark'
-     Vortex=Class'tk_Mayhemweapons.ColorShockComboVortex'
-     Wiggles=Class'tk_Mayhemweapons.ColorShockComboWiggles'
-     Flash=Class'tk_Mayhemweapons.ColorShockComboFlash'
+     ExpRing=Class'mm_MayhemWeapons.ColorShockComboExpRing'
+     ComboFlare=Class'mm_MayhemWeapons.ColorShockComboFlare'
+     Core=Class'mm_MayhemWeapons.ColorShockComboCore'
+     SphereDark=Class'mm_MayhemWeapons.ColorShockComboSphereDark'
+     Vortex=Class'mm_MayhemWeapons.ColorShockComboVortex'
+     Wiggles=Class'mm_MayhemWeapons.ColorShockComboWiggles'
+     Flash=Class'mm_MayhemWeapons.ColorShockComboFlash'
 }

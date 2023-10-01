@@ -26,7 +26,7 @@ defaultproperties
          TextureVSubdivisions=4
          LifetimeRange=(Min=0.050000,Max=0.100000)
      End Object
-     Emitters(0)=SpriteEmitter'tk_MayhemWeapons.EffectAvrilTrailSmall.SpriteEmitter0'
+     Emitters(0)=SpriteEmitter'mm_MayhemWeapons.EffectAvrilTrailSmall.SpriteEmitter0'
 
      Begin Object Class=SpriteEmitter Name=SpriteEmitter1
          UseColorScale=True
@@ -60,7 +60,7 @@ defaultproperties
          LifetimeRange=(Min=1.000000,Max=1.500000)
          StartVelocityRange=(X=(Min=-5.000000,Max=5.000000),Y=(Min=-5.000000,Max=5.000000),Z=(Min=-5.000000,Max=5.000000))
      End Object
-     Emitters(1)=SpriteEmitter'tk_MayhemWeapons.EffectAvrilTrailSmall.SpriteEmitter1'
+     Emitters(1)=SpriteEmitter'mm_MayhemWeapons.EffectAvrilTrailSmall.SpriteEmitter1'
 
      AutoDestroy=True
      bNoDelete=False

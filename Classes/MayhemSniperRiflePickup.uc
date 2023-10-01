@@ -2,7 +2,7 @@ class MayhemSniperRiflePickup extends SniperRiflePickup;
 
 static function StaticPrecache(LevelInfo L)
 {
-    L.AddPrecacheMaterial(Texture'tk_MayhemWeapons.SniperTex');
+    L.AddPrecacheMaterial(Texture'mm_MayhemWeapons.SniperTex');
 
     L.AddPrecacheMaterial(Material'XGameShaders.WeaponEnvShader');
     L.AddPrecacheMaterial(Texture'SniperBorder');
@@ -23,14 +23,14 @@ static function StaticPrecache(LevelInfo L)
 
 simulated function UpdatePrecacheMaterials()
 {
-    Level.AddPrecacheMaterial(Texture'tk_MayhemWeapons.SniperTex');
+    Level.AddPrecacheMaterial(Texture'mm_MayhemWeapons.SniperTex');
 
 	super.UpdatePrecacheMaterials();
 }
 
 defaultproperties
 {
-     InventoryType=Class'tk_Mayhemweapons.MayhemSniperRifle'
+     InventoryType=Class'mm_MayhemWeapons.MayhemSniperRifle'
      PickupMessage="You got the Mayhem Lightning Gun."
-     Skins(0)=Texture'tk_MayhemWeapons.SniperTex'
+     Skins(0)=Texture'mm_MayhemWeapons.SniperTex'
 }

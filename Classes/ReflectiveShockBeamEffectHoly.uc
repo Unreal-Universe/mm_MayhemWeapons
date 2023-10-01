@@ -2,10 +2,10 @@ class ReflectiveShockBeamEffectHoly extends ReflectiveShockBeamEffect;
 
 defaultproperties
 {
-     Scorch=Class'tk_Mayhemweapons.ReflectiveShockImpactScorchHoly'
-     Ring=Class'tk_Mayhemweapons.ReflectiveShockImpactRingHoly'
-     Flare=Class'tk_Mayhemweapons.ReflectiveShockImpactFlareHoly'
-     CoilClass=Class'tk_Mayhemweapons.ReflectiveShockCoilEffectHoly'
-     MuzFlashClass=Class'tk_Mayhemweapons.ReflectiveShockMuzFlashHoly'
-     MuzFlash3Class=Class'tk_Mayhemweapons.ReflectiveShockMuzFlash3rdHoly'
+     Scorch=Class'mm_MayhemWeapons.ReflectiveShockImpactScorchHoly'
+     Ring=Class'mm_MayhemWeapons.ReflectiveShockImpactRingHoly'
+     Flare=Class'mm_MayhemWeapons.ReflectiveShockImpactFlareHoly'
+     CoilClass=Class'mm_MayhemWeapons.ReflectiveShockCoilEffectHoly'
+     MuzFlashClass=Class'mm_MayhemWeapons.ReflectiveShockMuzFlashHoly'
+     MuzFlash3Class=Class'mm_MayhemWeapons.ReflectiveShockMuzFlash3rdHoly'
 }

@@ -132,11 +132,11 @@ Function SetNewDamage(byte BounceNum)
 
 defaultproperties
 {
-     ReflectedBeamEffectClass=Class'tk_Mayhemweapons.ReflectedShockBeamEffect'
+     ReflectedBeamEffectClass=Class'mm_MayhemWeapons.ReflectedShockBeamEffect'
      DampeningFactor=0.150000
      BounceMaxNum=5
-     BeamEffectClass=Class'tk_Mayhemweapons.ReflectiveShockBeamEffect'
-     DamageType=Class'tk_Mayhemweapons.DamageTypeBeamAbstract'
-     AmmoClass=Class'tk_Mayhemweapons.MayhemShockAmmo'
-     FlashEmitterClass=Class'tk_Mayhemweapons.ReflectiveShockBeamMuzFlash'
+     BeamEffectClass=Class'mm_MayhemWeapons.ReflectiveShockBeamEffect'
+     DamageType=Class'mm_MayhemWeapons.DamageTypeBeamAbstract'
+     AmmoClass=Class'mm_MayhemWeapons.MayhemShockAmmo'
+     FlashEmitterClass=Class'mm_MayhemWeapons.ReflectiveShockBeamMuzFlash'
 }

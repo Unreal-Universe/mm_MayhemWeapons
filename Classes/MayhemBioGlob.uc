@@ -158,7 +158,7 @@ defaultproperties
      Speed=1500.000000
      Damage=15.000000
      MomentumTransfer=30000.000000
-     MyDamageType=Class'tk_Mayhemweapons.DamageTypeMayhemFlubber'
+     MyDamageType=Class'mm_MayhemWeapons.DamageTypeMayhemFlubber'
      LifeSpan=5.000000
      bProjTarget=True
      bBounce=True

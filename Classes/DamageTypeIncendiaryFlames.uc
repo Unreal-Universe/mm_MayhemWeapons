@@ -2,7 +2,7 @@ Class DamageTypeIncendiaryFlames Extends WeaponDamageType Abstract;
 
 defaultproperties
 {
-     WeaponClass=Class'tk_Mayhemweapons.MayhemRocketLauncher'
+     WeaponClass=Class'mm_MayhemWeapons.MayhemRocketLauncher'
      DeathString="%o burned to a crisp from %k's incendiary rocket."
      FemaleSuicide="%o died dancing in her own fire."
      MaleSuicide="%o died dancing in his own fire."

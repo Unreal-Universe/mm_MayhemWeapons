@@ -31,7 +31,7 @@ defaultproperties
          TextureVSubdivisions=4
          LifetimeRange=(Min=1.000000,Max=1.000000)
      End Object
-     Emitters(0)=SpriteEmitter'tk_MayhemWeapons.EffectRocketFragExplosion.SpriteEmitter0'
+     Emitters(0)=SpriteEmitter'mm_MayhemWeapons.EffectRocketFragExplosion.SpriteEmitter0'
 
      Begin Object Class=SpriteEmitter Name=SpriteEmitter1
          RespawnDeadParticles=False
@@ -54,7 +54,7 @@ defaultproperties
          TextureVSubdivisions=4
          LifetimeRange=(Min=0.400000,Max=0.400000)
      End Object
-     Emitters(1)=SpriteEmitter'tk_MayhemWeapons.EffectRocketFragExplosion.SpriteEmitter1'
+     Emitters(1)=SpriteEmitter'mm_MayhemWeapons.EffectRocketFragExplosion.SpriteEmitter1'
 
      Begin Object Class=SpriteEmitter Name=SpriteEmitter2
          UseColorScale=True
@@ -78,7 +78,7 @@ defaultproperties
          Texture=Texture'AW-2004Particles.Weapons.GrenExpl'
          LifetimeRange=(Min=0.100000,Max=0.200000)
      End Object
-     Emitters(2)=SpriteEmitter'tk_MayhemWeapons.EffectRocketFragExplosion.SpriteEmitter2'
+     Emitters(2)=SpriteEmitter'mm_MayhemWeapons.EffectRocketFragExplosion.SpriteEmitter2'
 
      Begin Object Class=SpriteEmitter Name=SpriteEmitter3
          UseDirectionAs=PTDU_Up
@@ -100,7 +100,7 @@ defaultproperties
          StartVelocityRadialRange=(Min=-1250.000000,Max=-1750.000000)
          GetVelocityDirectionFrom=PTVD_AddRadial
      End Object
-     Emitters(3)=SpriteEmitter'tk_MayhemWeapons.EffectRocketFragExplosion.SpriteEmitter3'
+     Emitters(3)=SpriteEmitter'mm_MayhemWeapons.EffectRocketFragExplosion.SpriteEmitter3'
 
      Begin Object Class=SpriteEmitter Name=SpriteEmitter6
          FadeOut=True
@@ -122,7 +122,7 @@ defaultproperties
          Texture=Texture'AW-2004Particles.Weapons.PlasmaStar'
          LifetimeRange=(Min=0.100000,Max=0.100000)
      End Object
-     Emitters(4)=SpriteEmitter'tk_MayhemWeapons.EffectRocketFragExplosion.SpriteEmitter6'
+     Emitters(4)=SpriteEmitter'mm_MayhemWeapons.EffectRocketFragExplosion.SpriteEmitter6'
 
      AutoDestroy=True
      LightType=LT_FadeOut

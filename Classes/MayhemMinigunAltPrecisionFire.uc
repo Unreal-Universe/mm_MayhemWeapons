@@ -4,7 +4,7 @@ defaultproperties
 {
      MinigunMode=1
      BarrelRotationsPerSec=0.750000
-     FiringSound=Sound'tk_MayhemWeapons.Minigun.newminialt'
+     FiringSound=Sound'mm_MayhemWeapons.Minigun.newminialt'
      MinigunSoundVolume=244
      DamageMin=8
      DamageMax=9

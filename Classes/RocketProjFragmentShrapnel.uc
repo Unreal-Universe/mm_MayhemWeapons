@@ -42,10 +42,10 @@ SIMULATED function SetNewDamage() // Damage Dealt is based on the speed of the p
 defaultproperties
 {
      ReflectMaxNum=4
-     TrailClass=Class'tk_Mayhemweapons.RocketProjShrapnelTrail'
+     TrailClass=Class'mm_MayhemWeapons.RocketProjShrapnelTrail'
      Speed=2800.000000
      MaxSpeed=2800.000000
      Damage=15.000000
-     MyDamageType=Class'tk_Mayhemweapons.DamageTypeShrapnel'
+     MyDamageType=Class'mm_MayhemWeapons.DamageTypeShrapnel'
      Physics=PHYS_Falling
 }

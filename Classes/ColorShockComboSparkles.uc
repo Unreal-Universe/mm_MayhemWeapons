@@ -2,5 +2,5 @@ class ColorShockComboSparkles extends ShockComboSparkles;
 
 defaultproperties
 {
-     Skins(0)=Texture'tk_MayhemWeapons.Shock.shock_sparkle'
+     Skins(0)=Texture'mm_MayhemWeapons.Shock.shock_sparkle'
 }

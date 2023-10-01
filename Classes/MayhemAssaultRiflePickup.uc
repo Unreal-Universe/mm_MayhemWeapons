@@ -2,7 +2,7 @@ Class MayhemAssaultRiflePickup Extends AssaultRiflePickup;
 
 defaultproperties
 {
-     InventoryType=Class'tk_Mayhemweapons.MayhemAssaultRifle'
+     InventoryType=Class'mm_MayhemWeapons.MayhemAssaultRifle'
      PickupMessage="You got the Mayhem Assault Rifle."
-     Skins(0)=Texture'tk_MayhemWeapons.newar'
+     Skins(0)=Texture'mm_MayhemWeapons.newar'
 }

@@ -17,7 +17,7 @@ defaultproperties
          WarmupTicksPerSecond=1.000000
          RelativeWarmupTime=1.000000
      End Object
-     Emitters(0)=SpriteEmitter'tk_MayhemWeapons.ColorLinkTrailGreen.SpriteEmitter21'
+     Emitters(0)=SpriteEmitter'mm_MayhemWeapons.ColorLinkTrailGreen.SpriteEmitter21'
 
      Begin Object Class=SpriteEmitter Name=SpriteEmitter18
          UseColorScale=True
@@ -46,6 +46,6 @@ defaultproperties
          WarmupTicksPerSecond=1.000000
          RelativeWarmupTime=3.000000
      End Object
-     Emitters(1)=SpriteEmitter'tk_MayhemWeapons.ColorLinkTrailGreen.SpriteEmitter18'
+     Emitters(1)=SpriteEmitter'mm_MayhemWeapons.ColorLinkTrailGreen.SpriteEmitter18'
 
 }

@@ -33,7 +33,7 @@ defaultproperties
 {
      MaxSpread=0.060000
      SpreadQuickness=0.015000
-     DamageType=Class'tk_Mayhemweapons.DamageTypeMayhemAssaultFire'
+     DamageType=Class'mm_MayhemWeapons.DamageTypeMayhemAssaultFire'
      DamageMin=8
      DamageMax=8
      Spread=0.010000

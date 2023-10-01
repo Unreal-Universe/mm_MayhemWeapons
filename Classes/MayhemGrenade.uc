@@ -2,5 +2,5 @@ class MayhemGrenade extends Grenade;
 
 defaultproperties
 {
-     MyDamageType=Class'tk_Mayhemweapons.DamageTypeMayhemAssaultGrenade'
+     MyDamageType=Class'mm_MayhemWeapons.DamageTypeMayhemAssaultGrenade'
 }

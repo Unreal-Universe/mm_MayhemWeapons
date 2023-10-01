@@ -2,5 +2,5 @@ class DamageTypeLightning extends DamTypeSniperShot abstract;
 
 defaultproperties
 {
-     WeaponClass=Class'tk_Mayhemweapons.MayhemSniperRifle'
+     WeaponClass=Class'mm_MayhemWeapons.MayhemSniperRifle'
 }

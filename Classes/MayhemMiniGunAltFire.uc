@@ -71,6 +71,6 @@ function ScaleDamage(float DMod)
 
 defaultproperties
 {
-     DamageType=Class'tk_Mayhemweapons.DamageTypeMayhemMiniGun'
-     AmmoClass=Class'tk_Mayhemweapons.MayhemMinigunAmmo'
+     DamageType=Class'mm_MayhemWeapons.DamageTypeMayhemMiniGun'
+     AmmoClass=Class'mm_MayhemWeapons.MayhemMinigunAmmo'
 }

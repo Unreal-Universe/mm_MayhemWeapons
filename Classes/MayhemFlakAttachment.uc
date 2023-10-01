@@ -2,5 +2,5 @@ class MayhemFlakAttachment Extends FlakAttachment;
 
 defaultproperties
 {
-     Skins(0)=Texture'tk_MayhemWeapons.FlakTex'
+     Skins(0)=Texture'mm_MayhemWeapons.FlakTex'
 }

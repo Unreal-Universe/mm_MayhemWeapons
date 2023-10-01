@@ -41,7 +41,7 @@ defaultproperties
          TextureVSubdivisions=4
          LifetimeRange=(Min=0.400000,Max=0.400000)
      End Object
-     Emitters(0)=SpriteEmitter'tk_MayhemWeapons.EffectEMPMine.SpriteEmitter0'
+     Emitters(0)=SpriteEmitter'mm_MayhemWeapons.EffectEMPMine.SpriteEmitter0'
 
      Begin Object Class=SpriteEmitter Name=SpriteEmitter1
          UseColorScale=True
@@ -65,10 +65,10 @@ defaultproperties
          ScaleSizeByVelocityMultiplier=(X=0.100000,Y=0.100000,Z=0.100000)
          ScaleSizeByVelocityMax=100000.000000
          InitialParticlesPerSecond=20.000000
-         Texture=Texture'tk_MayhemWeapons.Mines.Ring'
+         Texture=Texture'mm_MayhemWeapons.Mines.Ring'
          LifetimeRange=(Min=0.250000,Max=0.250000)
      End Object
-     Emitters(1)=SpriteEmitter'tk_MayhemWeapons.EffectEMPMine.SpriteEmitter1'
+     Emitters(1)=SpriteEmitter'mm_MayhemWeapons.EffectEMPMine.SpriteEmitter1'
 
      Begin Object Class=SpriteEmitter Name=SpriteEmitter2
          UseCollision=True
@@ -90,7 +90,7 @@ defaultproperties
          StartVelocityRadialRange=(Min=-1000.000000,Max=-750.000000)
          GetVelocityDirectionFrom=PTVD_AddRadial
      End Object
-     Emitters(2)=SpriteEmitter'tk_MayhemWeapons.EffectEMPMine.SpriteEmitter2'
+     Emitters(2)=SpriteEmitter'mm_MayhemWeapons.EffectEMPMine.SpriteEmitter2'
 
      Begin Object Class=SpriteEmitter Name=SpriteEmitter3
          FadeOut=True
@@ -115,7 +115,7 @@ defaultproperties
          Texture=Texture'AW-2004Particles.Weapons.PlasmaStar'
          LifetimeRange=(Min=0.200000,Max=0.200000)
      End Object
-     Emitters(3)=SpriteEmitter'tk_MayhemWeapons.EffectEMPMine.SpriteEmitter3'
+     Emitters(3)=SpriteEmitter'mm_MayhemWeapons.EffectEMPMine.SpriteEmitter3'
 
      AutoDestroy=True
      bNoDelete=False

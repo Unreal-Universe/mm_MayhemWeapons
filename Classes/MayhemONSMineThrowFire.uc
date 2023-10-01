@@ -63,12 +63,12 @@ function projectile SpawnProjectile(Vector Start, Rotator Dir)
 
 defaultproperties
 {
-     MayhemMineClass(0)=Class'tk_Mayhemweapons.MayhemONSMineProjectile'
-     MayhemMineClass(1)=Class'tk_Mayhemweapons.MayhemONSMineProjectileEMP'
-     MayhemMineClass(2)=Class'tk_Mayhemweapons.MayhemONSMineProjectileRED'
-     MayhemMineClass(3)=Class'tk_Mayhemweapons.MayhemONSMineProjectileEMPRed'
-     MayhemMineClass(4)=Class'tk_Mayhemweapons.MayhemONSMineProjectileBLUE'
-     MayhemMineClass(5)=Class'tk_Mayhemweapons.MayhemONSMineProjectileEMPBlue'
+     MayhemMineClass(0)=Class'mm_MayhemWeapons.MayhemONSMineProjectile'
+     MayhemMineClass(1)=Class'mm_MayhemWeapons.MayhemONSMineProjectileEMP'
+     MayhemMineClass(2)=Class'mm_MayhemWeapons.MayhemONSMineProjectileRED'
+     MayhemMineClass(3)=Class'mm_MayhemWeapons.MayhemONSMineProjectileEMPRed'
+     MayhemMineClass(4)=Class'mm_MayhemWeapons.MayhemONSMineProjectileBLUE'
+     MayhemMineClass(5)=Class'mm_MayhemWeapons.MayhemONSMineProjectileEMPBlue'
      FireRate=1.000000
-     AmmoClass=Class'tk_Mayhemweapons.MayhemONSMineAmmo'
+     AmmoClass=Class'mm_MayhemWeapons.MayhemONSMineAmmo'
 }

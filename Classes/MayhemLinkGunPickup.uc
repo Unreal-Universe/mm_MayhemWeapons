@@ -2,19 +2,19 @@ class MayhemLinkGunPickup extends LinkGunPickup;
 
 static function StaticPrecache(LevelInfo L)
 {
-	L.AddPrecacheMaterial(Texture'tk_MayhemWeapons.LinkGunTex');
-    L.AddPrecacheMaterial(Texture'tk_MayhemWeapons.link_muz_green');
-    L.AddPrecacheMaterial(Texture'tk_MayhemWeapons.link_muz_Blue');
-    L.AddPrecacheMaterial(Texture'tk_MayhemWeapons.link_muz_Desat');
-    L.AddPrecacheMaterial(Texture'tk_MayhemWeapons.link_muz_Orange');
-    L.AddPrecacheMaterial(Texture'tk_MayhemWeapons.link_muz_Red');
-    L.AddPrecacheMaterial(Texture'tk_MayhemWeapons.link_muz_Purple');
-    L.AddPrecacheMaterial(Texture'tk_MayhemWeapons.link_muz_Yellow');
-    L.AddPrecacheMaterial(Texture'tk_MayhemWeapons.link_muzmesh_green');
+	L.AddPrecacheMaterial(Texture'mm_MayhemWeapons.LinkGunTex');
+    L.AddPrecacheMaterial(Texture'mm_MayhemWeapons.link_muz_green');
+    L.AddPrecacheMaterial(Texture'mm_MayhemWeapons.link_muz_Blue');
+    L.AddPrecacheMaterial(Texture'mm_MayhemWeapons.link_muz_Desat');
+    L.AddPrecacheMaterial(Texture'mm_MayhemWeapons.link_muz_Orange');
+    L.AddPrecacheMaterial(Texture'mm_MayhemWeapons.link_muz_Red');
+    L.AddPrecacheMaterial(Texture'mm_MayhemWeapons.link_muz_Purple');
+    L.AddPrecacheMaterial(Texture'mm_MayhemWeapons.link_muz_Yellow');
+    L.AddPrecacheMaterial(Texture'mm_MayhemWeapons.link_muzmesh_green');
     L.AddPrecacheMaterial(Texture'XEffectMat.link_muz_green');
     L.AddPrecacheMaterial(Texture'XEffectMat.link_muzmesh_green');
     L.AddPrecacheMaterial(Texture'XEffectMat.link_beam_green');
-        L.AddPrecacheMaterial(Texture'tk_MayhemWeapons.link_spark_green');
+        L.AddPrecacheMaterial(Texture'mm_MayhemWeapons.link_spark_green');
         L.AddPrecacheMaterial(Texture'XEffectMat.link_spark_green');
         L.AddPrecacheMaterial(Texture'XEffectMat.Link.link_muz_blue');
 	L.AddPrecacheMaterial(Texture'XEffectMat.Link.link_beam_blue');
@@ -36,19 +36,19 @@ static function StaticPrecache(LevelInfo L)
 
 simulated function UpdatePrecacheMaterials()
 {
-	Level.AddPrecacheMaterial(Texture'tk_MayhemWeapons.LinkGunTex');
-    Level.AddPrecacheMaterial(Texture'tk_MayhemWeapons.link_muz_green');
-    Level.AddPrecacheMaterial(Texture'tk_MayhemWeapons.link_muz_Blue');
-    Level.AddPrecacheMaterial(Texture'tk_MayhemWeapons.link_muz_Desat');
-    Level.AddPrecacheMaterial(Texture'tk_MayhemWeapons.link_muz_Orange');
-    Level.AddPrecacheMaterial(Texture'tk_MayhemWeapons.link_muz_Red');
-    Level.AddPrecacheMaterial(Texture'tk_MayhemWeapons.link_muz_Purple');
-    Level.AddPrecacheMaterial(Texture'tk_MayhemWeapons.link_muz_Yellow');
-    Level.AddPrecacheMaterial(Texture'tk_MayhemWeapons.link_muzmesh_green');
+	Level.AddPrecacheMaterial(Texture'mm_MayhemWeapons.LinkGunTex');
+    Level.AddPrecacheMaterial(Texture'mm_MayhemWeapons.link_muz_green');
+    Level.AddPrecacheMaterial(Texture'mm_MayhemWeapons.link_muz_Blue');
+    Level.AddPrecacheMaterial(Texture'mm_MayhemWeapons.link_muz_Desat');
+    Level.AddPrecacheMaterial(Texture'mm_MayhemWeapons.link_muz_Orange');
+    Level.AddPrecacheMaterial(Texture'mm_MayhemWeapons.link_muz_Red');
+    Level.AddPrecacheMaterial(Texture'mm_MayhemWeapons.link_muz_Purple');
+    Level.AddPrecacheMaterial(Texture'mm_MayhemWeapons.link_muz_Yellow');
+    Level.AddPrecacheMaterial(Texture'mm_MayhemWeapons.link_muzmesh_green');
     Level.AddPrecacheMaterial(Texture'XEffectMat.link_muz_green');
     Level.AddPrecacheMaterial(Texture'XEffectMat.link_muzmesh_green');
     Level.AddPrecacheMaterial(Texture'XEffectMat.link_beam_green');
-        Level.AddPrecacheMaterial(Texture'tk_MayhemWeapons.link_spark_green');
+        Level.AddPrecacheMaterial(Texture'mm_MayhemWeapons.link_spark_green');
         Level.AddPrecacheMaterial(Texture'XEffectMat.link_spark_green');
         Level.AddPrecacheMaterial(Texture'XEffectMat.Link.link_muz_blue');
 	Level.AddPrecacheMaterial(Texture'XEffectMat.Link.link_beam_blue');
@@ -68,7 +68,7 @@ simulated function UpdatePrecacheMaterials()
 
 defaultproperties
 {
-     InventoryType=Class'tk_Mayhemweapons.MayhemLinkGun'
+     InventoryType=Class'mm_MayhemWeapons.MayhemLinkGun'
      PickupMessage="You got the Mayhem Link Gun."
-     Skins(0)=Texture'tk_MayhemWeapons.LinkGunTex'
+     Skins(0)=Texture'mm_MayhemWeapons.LinkGunTex'
 }

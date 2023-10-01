@@ -174,14 +174,14 @@ defaultproperties
      ModeCycleSound=Sound'WeaponSounds.BaseGunTech.BReload3'
      CurrentFlakIndex=1
      FlakTrailColor=FTC_Red
-     FireModeClass(0)=Class'tk_Mayhemweapons.ReflectiveFlakFire'
-     FireModeClass(1)=Class'tk_Mayhemweapons.ReflectiveFlakAltChargedFire'
+     FireModeClass(0)=Class'mm_MayhemWeapons.ReflectiveFlakFire'
+     FireModeClass(1)=Class'mm_MayhemWeapons.ReflectiveFlakAltChargedFire'
      bShowChargingBar=True
-     AmmoClass(0)=Class'tk_Mayhemweapons.MayhemFlakAmmo'
+     AmmoClass(0)=Class'mm_MayhemWeapons.MayhemFlakAmmo'
      Description="The Trident Defensive Technologies Series 7 Flechette Cannon has been improved with modified firepower. The ionized flechettes of this remake glow with phosphorous chemicals, and are known to burn in random colors.||Payload delivery is achieved through 2 methods.  Spread patterns of ionized flechetes launched directly from the barrel, featuring 3 pattern modes; configureable.  Or via fragmentation grenades that explode on impact, radiating flechettes in all directions.  "
-     PickupClass=Class'tk_Mayhemweapons.MayhemFlakCannonPickup'
-     AttachmentClass=Class'tk_Mayhemweapons.MayhemFlakAttachment'
-     IconMaterial=Texture'tk_MayhemWeapons.Generic.HUD'
+     PickupClass=Class'mm_MayhemWeapons.MayhemFlakCannonPickup'
+     AttachmentClass=Class'mm_MayhemWeapons.MayhemFlakAttachment'
+     IconMaterial=Texture'mm_MayhemWeapons.Generic.HUD'
      ItemName="Mayhem Flak Cannon"
-     Skins(0)=Texture'tk_MayhemWeapons.FlakTex'
+     Skins(0)=Texture'mm_MayhemWeapons.FlakTex'
 }

@@ -2,5 +2,5 @@ Class DamageTypeRocketAbstract extends DamTypeRocket Abstract;
 
 defaultproperties
 {
-     WeaponClass=Class'tk_Mayhemweapons.MayhemRocketLauncher'
+     WeaponClass=Class'mm_MayhemWeapons.MayhemRocketLauncher'
 }

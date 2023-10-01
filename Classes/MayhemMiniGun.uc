@@ -229,13 +229,13 @@ Simulated function RebuildFireMode()  // based on postbeginplay function.
 defaultproperties
 {
      ModeCycleSound=Sound'WeaponSounds.BaseGunTech.BReload3'
-     FireModeClass(0)=Class'tk_Mayhemweapons.MayhemMiniGunFire'
-     FireModeClass(1)=Class'tk_Mayhemweapons.MayhemMiniGunAltFire'
+     FireModeClass(0)=Class'mm_MayhemWeapons.MayhemMiniGunFire'
+     FireModeClass(1)=Class'mm_MayhemWeapons.MayhemMiniGunAltFire'
      bShowChargingBar=True
-     AmmoClass(0)=Class'tk_Mayhemweapons.MayhemMinigunAmmo'
-     PickupClass=Class'tk_Mayhemweapons.MayhemMiniGunPickup'
-     AttachmentClass=Class'tk_Mayhemweapons.MayhemMiniGunAttachment'
-     IconMaterial=Texture'tk_MayhemWeapons.Generic.HUD'
+     AmmoClass(0)=Class'mm_MayhemWeapons.MayhemMinigunAmmo'
+     PickupClass=Class'mm_MayhemWeapons.MayhemMiniGunPickup'
+     AttachmentClass=Class'mm_MayhemWeapons.MayhemMiniGunAttachment'
+     IconMaterial=Texture'mm_MayhemWeapons.Generic.HUD'
      ItemName="Mayhem Minigun"
-     Skins(0)=Texture'tk_MayhemWeapons.newminigun'
+     Skins(0)=Texture'mm_MayhemWeapons.newminigun'
 }

@@ -62,5 +62,5 @@ defaultproperties
      mHoldSpeedMax=1800.000000
      mHoldSpeedGainPerSec=1960.000000
      bFireOnRelease=True
-     AmmoClass=Class'tk_Mayhemweapons.MayhemFlakAmmo'
+     AmmoClass=Class'mm_MayhemWeapons.MayhemFlakAmmo'
 }

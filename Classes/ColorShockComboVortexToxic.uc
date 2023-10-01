@@ -2,5 +2,5 @@ class ColorShockComboVortexToxic extends ColorShockComboVortex;
 
 defaultproperties
 {
-     Skins(0)=FinalBlend'tk_MayhemWeapons.Shock.ElecFBGreen'
+     Skins(0)=FinalBlend'mm_MayhemWeapons.Shock.ElecFBGreen'
 }

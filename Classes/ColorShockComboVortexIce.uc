@@ -2,5 +2,5 @@ class ColorShockComboVortexIce extends ColorShockComboVortex;
 
 defaultproperties
 {
-     Skins(0)=FinalBlend'tk_MayhemWeapons.Shock.ElecFBIce'
+     Skins(0)=FinalBlend'mm_MayhemWeapons.Shock.ElecFBIce'
 }

@@ -361,11 +361,11 @@ state PendingToggle
 defaultproperties
 {
      ModeCycleSound=Sound'WeaponSounds.BaseGunTech.BReload2'
-     BaseMaterial=Texture'tk_MayhemWeapons.newavril'
-     FireModeClass(0)=Class'tk_Mayhemweapons.MayhemONSAVRiLFire'
-     PickupClass=Class'tk_Mayhemweapons.MayhemONSAVRiLPickup'
-     AttachmentClass=Class'tk_Mayhemweapons.MayhemONSAVRiLAttachment'
-     IconMaterial=Texture'tk_MayhemWeapons.Generic.HUD'
+     BaseMaterial=Texture'mm_MayhemWeapons.newavril'
+     FireModeClass(0)=Class'mm_MayhemWeapons.MayhemONSAVRiLFire'
+     PickupClass=Class'mm_MayhemWeapons.MayhemONSAVRiLPickup'
+     AttachmentClass=Class'mm_MayhemWeapons.MayhemONSAVRiLAttachment'
+     IconMaterial=Texture'mm_MayhemWeapons.Generic.HUD'
      ItemName="Mayhem AVRiL"
-     Skins(0)=Texture'tk_MayhemWeapons.newavril'
+     Skins(0)=Texture'mm_MayhemWeapons.newavril'
 }

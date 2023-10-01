@@ -86,7 +86,7 @@ defaultproperties
          TextureVSubdivisions=4
          LifetimeRange=(Min=1.000000,Max=1.000000)
      End Object
-     Emitters(0)=SpriteEmitter'tk_MayhemWeapons.EffectRocketFlamingExplosion.SpriteEmitter0'
+     Emitters(0)=SpriteEmitter'mm_MayhemWeapons.EffectRocketFlamingExplosion.SpriteEmitter0'
 
      Begin Object Class=SpriteEmitter Name=SpriteEmitter1
          RespawnDeadParticles=False
@@ -111,7 +111,7 @@ defaultproperties
          TextureVSubdivisions=4
          LifetimeRange=(Min=0.400000,Max=0.400000)
      End Object
-     Emitters(1)=SpriteEmitter'tk_MayhemWeapons.EffectRocketFlamingExplosion.SpriteEmitter1'
+     Emitters(1)=SpriteEmitter'mm_MayhemWeapons.EffectRocketFlamingExplosion.SpriteEmitter1'
 
      Begin Object Class=SpriteEmitter Name=SpriteEmitter2
          UseColorScale=True
@@ -133,7 +133,7 @@ defaultproperties
          Texture=Texture'AW-2004Particles.Energy.JumpDuck'
          LifetimeRange=(Min=0.300000,Max=0.300000)
      End Object
-     Emitters(2)=SpriteEmitter'tk_MayhemWeapons.EffectRocketFlamingExplosion.SpriteEmitter2'
+     Emitters(2)=SpriteEmitter'mm_MayhemWeapons.EffectRocketFlamingExplosion.SpriteEmitter2'
 
      Begin Object Class=SpriteEmitter Name=SpriteEmitter3
          UseDirectionAs=PTDU_Up
@@ -156,7 +156,7 @@ defaultproperties
          StartVelocityRadialRange=(Min=-100.000000,Max=-500.000000)
          GetVelocityDirectionFrom=PTVD_AddRadial
      End Object
-     Emitters(3)=SpriteEmitter'tk_MayhemWeapons.EffectRocketFlamingExplosion.SpriteEmitter3'
+     Emitters(3)=SpriteEmitter'mm_MayhemWeapons.EffectRocketFlamingExplosion.SpriteEmitter3'
 
      Begin Object Class=SpriteEmitter Name=SpriteEmitter4
          UseCollision=True
@@ -190,7 +190,7 @@ defaultproperties
          StartVelocityRadialRange=(Max=-100.000000)
          GetVelocityDirectionFrom=PTVD_AddRadial
      End Object
-     Emitters(4)=SpriteEmitter'tk_MayhemWeapons.EffectRocketFlamingExplosion.SpriteEmitter4'
+     Emitters(4)=SpriteEmitter'mm_MayhemWeapons.EffectRocketFlamingExplosion.SpriteEmitter4'
 
      Begin Object Class=SpriteEmitter Name=SpriteEmitter5
          UseCollision=True
@@ -214,7 +214,7 @@ defaultproperties
          LifetimeRange=(Min=1.000000,Max=1.000000)
          StartVelocityRange=(X=(Min=-20.000000,Max=20.000000),Y=(Min=-20.000000,Max=20.000000),Z=(Min=40.000000,Max=60.000000))
      End Object
-     Emitters(5)=SpriteEmitter'tk_MayhemWeapons.EffectRocketFlamingExplosion.SpriteEmitter5'
+     Emitters(5)=SpriteEmitter'mm_MayhemWeapons.EffectRocketFlamingExplosion.SpriteEmitter5'
 
      AutoDestroy=True
      LightType=LT_FadeOut

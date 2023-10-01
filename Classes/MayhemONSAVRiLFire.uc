@@ -140,7 +140,7 @@ function Projectile SpawnProjectile(vector Start, rotator Dir)
 defaultproperties
 {
      WolfSpread=200.000000
-     WolfFireSound=Sound'tk_MayhemWeapons.AVRiL.avrilmulti'
-     AmmoClass=Class'tk_Mayhemweapons.MayhemONSAVRiLAmmo'
-     ProjectileClass=Class'tk_Mayhemweapons.MayhemONSAVRiLRocket'
+     WolfFireSound=Sound'mm_MayhemWeapons.AVRiL.avrilmulti'
+     AmmoClass=Class'mm_MayhemWeapons.MayhemONSAVRiLAmmo'
+     ProjectileClass=Class'mm_MayhemWeapons.MayhemONSAVRiLRocket'
 }

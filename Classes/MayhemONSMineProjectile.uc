@@ -8,5 +8,5 @@ event TakeDamage( int Damage, Pawn EventInstigator, vector HitLocation, vector M
 
 defaultproperties
 {
-     MyDamageType=Class'tk_Mayhemweapons.DamageTypeMayhemONSMine'
+     MyDamageType=Class'mm_MayhemWeapons.DamageTypeMayhemONSMine'
 }

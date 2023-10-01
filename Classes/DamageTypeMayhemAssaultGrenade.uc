@@ -2,5 +2,5 @@ class DamageTypeMayhemAssaultGrenade extends DamTypeAssaultGrenade abstract;
 
 defaultproperties
 {
-     WeaponClass=Class'tk_Mayhemweapons.MayhemAssaultRifle'
+     WeaponClass=Class'mm_MayhemWeapons.MayhemAssaultRifle'
 }

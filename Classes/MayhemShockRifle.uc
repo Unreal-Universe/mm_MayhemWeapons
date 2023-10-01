@@ -396,18 +396,18 @@ defaultproperties
      CrosshairX=16.000000
      CrosshairY=16.000000
      bPickupRandom=True
-     FireModeClass(0)=Class'tk_Mayhemweapons.ReflectiveShockBeamFire'
-     FireModeClass(1)=Class'tk_Mayhemweapons.ReflectiveShockProjFire'
-     AmmoClass(0)=Class'tk_Mayhemweapons.MayhemShockAmmo'
+     FireModeClass(0)=Class'mm_MayhemWeapons.ReflectiveShockBeamFire'
+     FireModeClass(1)=Class'mm_MayhemWeapons.ReflectiveShockProjFire'
+     AmmoClass(0)=Class'mm_MayhemWeapons.MayhemShockAmmo'
      HudColor=(B=0,R=255)
      CenteredOffsetY=-5.000000
      CenteredYaw=-500
      CustomCrosshair=8
      CustomCrossHairColor=(B=0)
      CustomCrossHairTextureName="Crosshairs.Hud.Crosshair_Triad2"
-     PickupClass=Class'tk_Mayhemweapons.MayhemShockRiflePickup'
-     AttachmentClass=Class'tk_Mayhemweapons.ReflectiveShockAttachment'
-     IconMaterial=Texture'tk_MayhemWeapons.Generic.HUD'
+     PickupClass=Class'mm_MayhemWeapons.MayhemShockRiflePickup'
+     AttachmentClass=Class'mm_MayhemWeapons.ReflectiveShockAttachment'
+     IconMaterial=Texture'mm_MayhemWeapons.Generic.HUD'
      ItemName="Mayhem Shock Rifle"
-     Skins(0)=Texture'tk_MayhemWeapons.ShockRifleTex'
+     Skins(0)=Texture'mm_MayhemWeapons.ShockRifleTex'
 }

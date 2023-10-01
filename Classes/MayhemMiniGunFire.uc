@@ -133,6 +133,6 @@ defaultproperties
 {
      CoolRate=0.004000
      CoolRepeatRate=0.020000
-     DamageType=Class'tk_Mayhemweapons.DamageTypeMayhemMiniGun'
-     AmmoClass=Class'tk_Mayhemweapons.MayhemMinigunAmmo'
+     DamageType=Class'mm_MayhemWeapons.DamageTypeMayhemMiniGun'
+     AmmoClass=Class'mm_MayhemWeapons.MayhemMinigunAmmo'
 }

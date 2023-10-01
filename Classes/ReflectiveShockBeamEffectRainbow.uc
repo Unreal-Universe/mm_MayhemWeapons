@@ -2,13 +2,13 @@ class ReflectiveShockBeamEffectRainbow extends ReflectiveShockBeamEffect;
 
 defaultproperties
 {
-     Core=Class'tk_Mayhemweapons.ColorShockExplosionCoreRainbow'
-     Scorch=Class'tk_Mayhemweapons.ReflectiveShockImpactScorchRainbow'
-     Ring=Class'tk_Mayhemweapons.ReflectiveShockImpactRingRainbow'
-     Flare=Class'tk_Mayhemweapons.ReflectiveShockImpactFlareRainbow'
-     CoilClass=Class'tk_Mayhemweapons.ReflectiveShockCoilEffectRainbow'
-     MuzFlashClass=Class'tk_Mayhemweapons.ReflectiveShockMuzFlashRainbow'
-     MuzFlash3Class=Class'tk_Mayhemweapons.ReflectiveShockMuzFlash3rdRainbow'
-     Texture=Texture'tk_MayhemWeapons.Effects.ShockBeam_Rainbow1'
-     Skins(0)=Texture'tk_MayhemWeapons.Effects.ShockBeam_Rainbow1'
+     Core=Class'mm_MayhemWeapons.ColorShockExplosionCoreRainbow'
+     Scorch=Class'mm_MayhemWeapons.ReflectiveShockImpactScorchRainbow'
+     Ring=Class'mm_MayhemWeapons.ReflectiveShockImpactRingRainbow'
+     Flare=Class'mm_MayhemWeapons.ReflectiveShockImpactFlareRainbow'
+     CoilClass=Class'mm_MayhemWeapons.ReflectiveShockCoilEffectRainbow'
+     MuzFlashClass=Class'mm_MayhemWeapons.ReflectiveShockMuzFlashRainbow'
+     MuzFlash3Class=Class'mm_MayhemWeapons.ReflectiveShockMuzFlash3rdRainbow'
+     Texture=Texture'mm_MayhemWeapons.Effects.ShockBeam_Rainbow1'
+     Skins(0)=Texture'mm_MayhemWeapons.Effects.ShockBeam_Rainbow1'
 }

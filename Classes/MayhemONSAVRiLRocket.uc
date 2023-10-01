@@ -2,5 +2,5 @@ class MayhemONSAVRiLRocket extends ONSAVRiLRocket;
 
 defaultproperties
 {
-     MyDamageType=Class'tk_Mayhemweapons.DamageTypeMayhemONSAVRiLRocket'
+     MyDamageType=Class'mm_MayhemWeapons.DamageTypeMayhemONSAVRiLRocket'
 }

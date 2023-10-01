@@ -2,9 +2,9 @@ Class ColorLinkProjRed extends ReflectiveLinkProjectile;// MUST REMEMBER IN MUTA
 
 defaultproperties
 {
-     LinkSparksClass=Class'tk_Mayhemweapons.ColorLinkSparksRed'
-     LinkTrailClass=Class'tk_Mayhemweapons.ColorLinkTrailRed'
+     LinkSparksClass=Class'mm_MayhemWeapons.ColorLinkSparksRed'
+     LinkTrailClass=Class'mm_MayhemWeapons.ColorLinkTrailRed'
      LightHue=10
      LightSaturation=30
-     Skins(0)=FinalBlend'tk_MayhemWeapons.Link.LinkProjRedFB'
+     Skins(0)=FinalBlend'mm_MayhemWeapons.Link.LinkProjRedFB'
 }

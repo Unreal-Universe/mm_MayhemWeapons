@@ -236,12 +236,12 @@ state PendingToggle
 defaultproperties
 {
      ModeCycleSound=Sound'WeaponSounds.BaseGunTech.BReload7'
-     FireModeClass(0)=Class'tk_Mayhemweapons.MayhemBioFire'
-     FireModeClass(1)=Class'tk_Mayhemweapons.MayhemBioChargedFire'
-     AmmoClass(0)=Class'tk_Mayhemweapons.MayhemBioAmmo'
-     PickupClass=Class'tk_Mayhemweapons.MayhemBioRiflePickup'
-     AttachmentClass=Class'tk_Mayhemweapons.MayhemBioAttachment'
-     IconMaterial=Texture'tk_MayhemWeapons.Generic.HUD'
+     FireModeClass(0)=Class'mm_MayhemWeapons.MayhemBioFire'
+     FireModeClass(1)=Class'mm_MayhemWeapons.MayhemBioChargedFire'
+     AmmoClass(0)=Class'mm_MayhemWeapons.MayhemBioAmmo'
+     PickupClass=Class'mm_MayhemWeapons.MayhemBioRiflePickup'
+     AttachmentClass=Class'mm_MayhemWeapons.MayhemBioAttachment'
+     IconMaterial=Texture'mm_MayhemWeapons.Generic.HUD'
      ItemName="Mayhem Bio-Rifle"
-     Skins(0)=Texture'tk_MayhemWeapons.newbio'
+     Skins(0)=Texture'mm_MayhemWeapons.newbio'
 }

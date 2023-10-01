@@ -2,7 +2,7 @@ Class ReflectiveShockAttachmentFire Extends ReflectiveShockAttachment;
 
 defaultproperties
 {
-     MuzFlashClass=Class'tk_Mayhemweapons.ReflectiveShockProjMuzFlash3rdFire'
+     MuzFlashClass=Class'mm_MayhemWeapons.ReflectiveShockProjMuzFlash3rdFire'
      LightHue=10
      LightSaturation=30
 }

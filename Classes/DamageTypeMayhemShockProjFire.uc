@@ -6,5 +6,5 @@ defaultproperties
      DeathString="%o was engulfed by %k's fire core."
      FemaleSuicide="%o snuffed herself with the fire core."
      MaleSuicide="%o snuffed himself with the fire core."
-     DamageOverlayMaterial=Shader'tk_MayhemWeapons.HitShaders.ShockHitShaderFire'
+     DamageOverlayMaterial=Shader'mm_MayhemWeapons.HitShaders.ShockHitShaderFire'
 }

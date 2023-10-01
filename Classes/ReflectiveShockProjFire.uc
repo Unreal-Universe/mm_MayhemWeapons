@@ -21,7 +21,7 @@ simulated function InitEffects()
 
 defaultproperties
 {
-     AmmoClass=Class'tk_Mayhemweapons.MayhemShockAmmo'
-     ProjectileClass=Class'tk_Mayhemweapons.ReflectiveShockProjectile'
-     FlashEmitterClass=Class'tk_Mayhemweapons.ReflectiveShockProjMuzFlash'
+     AmmoClass=Class'mm_MayhemWeapons.MayhemShockAmmo'
+     ProjectileClass=Class'mm_MayhemWeapons.ReflectiveShockProjectile'
+     FlashEmitterClass=Class'mm_MayhemWeapons.ReflectiveShockProjMuzFlash'
 }

@@ -4,5 +4,5 @@ defaultproperties
 {
      DeathString="%o was cleansed by %k's holy beam."
      bLeaveBodyEffect=True
-     DamageOverlayMaterial=Shader'tk_MayhemWeapons.HitShaders.ShockHitShaderHoly'
+     DamageOverlayMaterial=Shader'mm_MayhemWeapons.HitShaders.ShockHitShaderHoly'
 }

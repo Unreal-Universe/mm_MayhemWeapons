@@ -196,7 +196,7 @@ defaultproperties
      Damage=50.000000
      DamageRadius=240.000000
      MomentumTransfer=30000.000000
-     MyDamageType=Class'tk_Mayhemweapons.DamageTypeMayhemONSAVRiLWolf'
+     MyDamageType=Class'mm_MayhemWeapons.DamageTypeMayhemONSAVRiLWolf'
      CullDistance=7500.000000
      LifeSpan=8.000000
      DrawScale=0.075000

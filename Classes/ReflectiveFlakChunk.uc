@@ -116,11 +116,11 @@ defaultproperties
      ReflectMaxNum=5
      bIgnoreGravity=True
      bCanDamageUser=True
-     TrailClass=Class'tk_Mayhemweapons.ReflectiveFlakTrail'
+     TrailClass=Class'mm_MayhemWeapons.ReflectiveFlakTrail'
      Bounces=5
      Speed=3000.000000
      MaxSpeed=3000.000000
      Damage=12.500000
-     MyDamageType=Class'tk_Mayhemweapons.DamageTypeMayhemFlakChunk'
+     MyDamageType=Class'mm_MayhemWeapons.DamageTypeMayhemFlakChunk'
      LifeSpan=4.800000
 }

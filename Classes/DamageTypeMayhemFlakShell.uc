@@ -2,5 +2,5 @@ class DamageTypeMayhemFlakShell extends DamTypeFlakShell;
 
 defaultproperties
 {
-     WeaponClass=Class'tk_Mayhemweapons.MayhemFlakCannon'
+     WeaponClass=Class'mm_MayhemWeapons.MayhemFlakCannon'
 }

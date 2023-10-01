@@ -381,13 +381,13 @@ function SetNewDamage(Float DamageMult)
 
 defaultproperties
 {
-     ReflectEmitterClass=Class'tk_Mayhemweapons.ReflectedLightningBolt'
-     BranchEmitterClass=Class'tk_Mayhemweapons.LightningArcSmall'
-     SpreadEmitterClass=Class'tk_Mayhemweapons.LightningArcSpread'
+     ReflectEmitterClass=Class'mm_MayhemWeapons.ReflectedLightningBolt'
+     BranchEmitterClass=Class'mm_MayhemWeapons.LightningArcSmall'
+     SpreadEmitterClass=Class'mm_MayhemWeapons.LightningArcSpread'
      DampeningFactor=0.120000
      BounceMaxNum=5
-     BranchFireSound=Sound'tk_MayhemWeapons.Lightning.ltg'
-     HitEmitterClass=Class'tk_Mayhemweapons.ReflectiveLightningBolt'
-     SecHitEmitterClass=Class'tk_Mayhemweapons.LightningArcChild'
-     AmmoClass=Class'tk_Mayhemweapons.MayhemSniperAmmo'
+     BranchFireSound=Sound'mm_MayhemWeapons.Lightning.ltg'
+     HitEmitterClass=Class'mm_MayhemWeapons.ReflectiveLightningBolt'
+     SecHitEmitterClass=Class'mm_MayhemWeapons.LightningArcChild'
+     AmmoClass=Class'mm_MayhemWeapons.MayhemSniperAmmo'
 }

@@ -37,7 +37,7 @@ defaultproperties
          TextureVSubdivisions=4
          LifetimeRange=(Min=1.250000,Max=1.250000)
      End Object
-     Emitters(0)=SpriteEmitter'tk_MayhemWeapons.EffectRocketTrailStandard.SpriteEmitter1'
+     Emitters(0)=SpriteEmitter'mm_MayhemWeapons.EffectRocketTrailStandard.SpriteEmitter1'
 
      bNoDelete=False
 }

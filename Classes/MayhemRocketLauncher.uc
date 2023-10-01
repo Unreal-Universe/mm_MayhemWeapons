@@ -162,12 +162,12 @@ defaultproperties
 {
      ModeCycleSound=Sound'WeaponSounds.BaseGunTech.BReload2'
      TrailColor=Trail_red
-     FireModeClass(0)=Class'tk_Mayhemweapons.RocketFireCyclical'
-     FireModeClass(1)=Class'tk_Mayhemweapons.RocketFireReflective'
-     AmmoClass(0)=Class'tk_Mayhemweapons.MayhemRocketAmmo'
-     PickupClass=Class'tk_Mayhemweapons.MayhemRocketLauncherPickup'
-     AttachmentClass=Class'tk_Mayhemweapons.MayhemRocketAttachment'
-     IconMaterial=Texture'tk_MayhemWeapons.Generic.HUD'
+     FireModeClass(0)=Class'mm_MayhemWeapons.RocketFireCyclical'
+     FireModeClass(1)=Class'mm_MayhemWeapons.RocketFireReflective'
+     AmmoClass(0)=Class'mm_MayhemWeapons.MayhemRocketAmmo'
+     PickupClass=Class'mm_MayhemWeapons.MayhemRocketLauncherPickup'
+     AttachmentClass=Class'mm_MayhemWeapons.MayhemRocketAttachment'
+     IconMaterial=Texture'mm_MayhemWeapons.Generic.HUD'
      ItemName="Mayhem Rocket Launcher"
-     Skins(0)=Texture'tk_MayhemWeapons.RocketTex'
+     Skins(0)=Texture'mm_MayhemWeapons.RocketTex'
 }

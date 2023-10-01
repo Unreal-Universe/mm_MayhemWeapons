@@ -2,6 +2,6 @@ Class ReflectiveShockAttachment Extends ShockAttachment;
 
 defaultproperties
 {
-     MuzFlashClass=Class'tk_Mayhemweapons.ReflectiveShockProjMuzFlash3rd'
-     Skins(0)=Texture'tk_MayhemWeapons.ShockRifleTex'
+     MuzFlashClass=Class'mm_MayhemWeapons.ReflectiveShockProjMuzFlash3rd'
+     Skins(0)=Texture'mm_MayhemWeapons.ShockRifleTex'
 }

@@ -22,5 +22,5 @@ Simulated Function SetRandomColor()
 defaultproperties
 {
      mGrowthRate=-1.200000
-     Skins(0)=Texture'tk_MayhemWeapons.FlakTrailTex'
+     Skins(0)=Texture'mm_MayhemWeapons.FlakTrailTex'
 }

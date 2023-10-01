@@ -181,11 +181,11 @@ defaultproperties
      ModeCycleSound=Sound'WeaponSounds.BaseGunTech.BReload9'
      Vol(0)=0.500000
      Vol(1)=1.100000
-     FireModeClass(0)=Class'tk_Mayhemweapons.MayhemSniperFire'
-     AmmoClass(0)=Class'tk_Mayhemweapons.MayhemSniperAmmo'
-     PickupClass=Class'tk_Mayhemweapons.MayhemSniperRiflePickup'
-     AttachmentClass=Class'tk_Mayhemweapons.MayhemSniperAttachment'
-     IconMaterial=Texture'tk_MayhemWeapons.Generic.HUD'
+     FireModeClass(0)=Class'mm_MayhemWeapons.MayhemSniperFire'
+     AmmoClass(0)=Class'mm_MayhemWeapons.MayhemSniperAmmo'
+     PickupClass=Class'mm_MayhemWeapons.MayhemSniperRiflePickup'
+     AttachmentClass=Class'mm_MayhemWeapons.MayhemSniperAttachment'
+     IconMaterial=Texture'mm_MayhemWeapons.Generic.HUD'
      ItemName="Mayhem Lightning Gun"
-     Skins(0)=Texture'tk_MayhemWeapons.SniperTex'
+     Skins(0)=Texture'mm_MayhemWeapons.SniperTex'
 }

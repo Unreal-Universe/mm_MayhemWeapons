@@ -163,11 +163,11 @@ defaultproperties
 {
      DampeningFactor=0.150000
      ReflectMaxNum=5
-     LinkSparksClass=Class'tk_Mayhemweapons.ReflectiveLinkProjSparks'
-     LinkTrailClass=Class'tk_Mayhemweapons.ReflectiveNewLinkTrail'
-     MyDamageType=Class'tk_Mayhemweapons.DamageTypeMayhemLinkPlasma'
+     LinkSparksClass=Class'mm_MayhemWeapons.ReflectiveLinkProjSparks'
+     LinkTrailClass=Class'mm_MayhemWeapons.ReflectiveNewLinkTrail'
+     MyDamageType=Class'mm_MayhemWeapons.DamageTypeMayhemLinkPlasma'
      LightHue=0
      LightSaturation=255
      LifeSpan=5.000000
-     Skins(0)=FinalBlend'tk_MayhemWeapons.Link.LinkProjGreenFB'
+     Skins(0)=FinalBlend'mm_MayhemWeapons.Link.LinkProjGreenFB'
 }

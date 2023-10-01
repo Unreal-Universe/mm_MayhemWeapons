@@ -52,9 +52,9 @@ function Projectile SpawnProjectile(Vector Start, Rotator Dir)
 
 defaultproperties
 {
-     FinalBlendEffect=FinalBlend'tk_MayhemWeapons.Link.LinkMuzProjGreenFB'
+     FinalBlendEffect=FinalBlend'mm_MayhemWeapons.Link.LinkMuzProjGreenFB'
      RandPick=1
-     AmmoClass=Class'tk_Mayhemweapons.MayhemLinkAmmo'
-     ProjectileClass=Class'tk_Mayhemweapons.ReflectiveLinkProjectile'
-     FlashEmitterClass=Class'tk_Mayhemweapons.ReflectiveLinkMuzFlashProj1st'
+     AmmoClass=Class'mm_MayhemWeapons.MayhemLinkAmmo'
+     ProjectileClass=Class'mm_MayhemWeapons.ReflectiveLinkProjectile'
+     FlashEmitterClass=Class'mm_MayhemWeapons.ReflectiveLinkMuzFlashProj1st'
 }

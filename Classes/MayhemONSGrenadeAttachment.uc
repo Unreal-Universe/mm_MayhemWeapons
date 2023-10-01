@@ -2,5 +2,5 @@ class MayhemONSGrenadeAttachment Extends ONSGrenadeAttachment;
 
 defaultproperties
 {
-     Skins(0)=Texture'tk_MayhemWeapons.newgrenadelauncher'
+     Skins(0)=Texture'mm_MayhemWeapons.newgrenadelauncher'
 }

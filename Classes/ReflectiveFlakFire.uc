@@ -54,12 +54,12 @@ defaultproperties
      PatternShots(0)=5
      PatternShots(1)=9
      PatternShots(2)=12
-     PatternProjClass(0)=Class'tk_Mayhemweapons.ReflectiveFlakChunkFaster'
-     PatternProjClass(1)=Class'tk_Mayhemweapons.ReflectiveFlakChunk'
-     PatternProjClass(2)=Class'tk_Mayhemweapons.ReflectiveFlakChunkSlower'
-     PatternSound(0)=Sound'tk_MayhemWeapons.Flak.highflak'
+     PatternProjClass(0)=Class'mm_MayhemWeapons.ReflectiveFlakChunkFaster'
+     PatternProjClass(1)=Class'mm_MayhemWeapons.ReflectiveFlakChunk'
+     PatternProjClass(2)=Class'mm_MayhemWeapons.ReflectiveFlakChunkSlower'
+     PatternSound(0)=Sound'mm_MayhemWeapons.Flak.highflak'
      PatternSound(1)=SoundGroup'WeaponSounds.FlakCannon.FlakCannonFire'
-     PatternSound(2)=Sound'tk_MayhemWeapons.Flak.lowflak'
-     AmmoClass=Class'tk_Mayhemweapons.MayhemFlakAmmo'
-     ProjectileClass=Class'tk_Mayhemweapons.ReflectiveFlakChunk'
+     PatternSound(2)=Sound'mm_MayhemWeapons.Flak.lowflak'
+     AmmoClass=Class'mm_MayhemWeapons.MayhemFlakAmmo'
+     ProjectileClass=Class'mm_MayhemWeapons.ReflectiveFlakChunk'
 }

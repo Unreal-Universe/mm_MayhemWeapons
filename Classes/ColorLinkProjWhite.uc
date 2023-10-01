@@ -2,7 +2,7 @@ Class ColorLinkProjWhite extends ReflectiveLinkProjectile;
 
 defaultproperties
 {
-     LinkSparksClass=Class'tk_Mayhemweapons.ColorLinkSparksWhite'
-     LinkTrailClass=Class'tk_Mayhemweapons.ColorLinkTrailWhite'
-     Skins(0)=FinalBlend'tk_MayhemWeapons.Link.LinkProjDesatFB'
+     LinkSparksClass=Class'mm_MayhemWeapons.ColorLinkSparksWhite'
+     LinkTrailClass=Class'mm_MayhemWeapons.ColorLinkTrailWhite'
+     Skins(0)=FinalBlend'mm_MayhemWeapons.Link.LinkProjDesatFB'
 }

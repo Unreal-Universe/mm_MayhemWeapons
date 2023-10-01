@@ -31,11 +31,11 @@ exec function ToggleMayhemWeaponMode()
 
 defaultproperties
 {
-     FireModeClass(0)=Class'tk_Mayhemweapons.MayhemAssaultFire'
-     FireModeClass(1)=Class'tk_Mayhemweapons.MayhemAssaultGrenade'
-     PickupClass=Class'tk_Mayhemweapons.MayhemAssaultRiflePickup'
-     AttachmentClass=Class'tk_Mayhemweapons.MayhemAssaultAttachment'
-     IconMaterial=Texture'tk_MayhemWeapons.Generic.HUD'
+     FireModeClass(0)=Class'mm_MayhemWeapons.MayhemAssaultFire'
+     FireModeClass(1)=Class'mm_MayhemWeapons.MayhemAssaultGrenade'
+     PickupClass=Class'mm_MayhemWeapons.MayhemAssaultRiflePickup'
+     AttachmentClass=Class'mm_MayhemWeapons.MayhemAssaultAttachment'
+     IconMaterial=Texture'mm_MayhemWeapons.Generic.HUD'
      ItemName="Mayhem Assault Rifle"
-     Skins(0)=Texture'tk_MayhemWeapons.newar'
+     Skins(0)=Texture'mm_MayhemWeapons.newar'
 }

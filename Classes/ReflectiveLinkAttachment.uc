@@ -41,10 +41,10 @@ simulated function UpdateLinkColor()
     super.UpdateLinkColor();
     // overridding skin that was set by super method.
     if ( MuzFlash != None )
-        MuzFlash.Skins[0] = FinalBlend'tk_MayhemWeapons.LinkMuzProjGreenFB'; // named green, but actually is desaturated.
+        MuzFlash.Skins[0] = FinalBlend'mm_MayhemWeapons.LinkMuzProjGreenFB'; // named green, but actually is desaturated.
 }
 
 defaultproperties
 {
-     Skins(0)=Texture'tk_MayhemWeapons.LinkGunTex'
+     Skins(0)=Texture'mm_MayhemWeapons.LinkGunTex'
 }

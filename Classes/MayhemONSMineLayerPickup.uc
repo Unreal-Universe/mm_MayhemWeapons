@@ -2,10 +2,10 @@ class MayhemONSMineLayerPickup extends ONSMineLayerPickup;
 
 static function StaticPrecache(LevelInfo L)
 {
-        L.AddPrecacheMaterial(Texture'tk_MayhemWeapons.empblue');
-        L.AddPrecacheMaterial(Texture'tk_MayhemWeapons.empred');
-        L.AddPrecacheMaterial(Texture'tk_MayhemWeapons.newMineLayer');
-        L.AddPrecacheMaterial(Texture'tk_MayhemWeapons.Mines.ring');
+        L.AddPrecacheMaterial(Texture'mm_MayhemWeapons.empblue');
+        L.AddPrecacheMaterial(Texture'mm_MayhemWeapons.empred');
+        L.AddPrecacheMaterial(Texture'mm_MayhemWeapons.newMineLayer');
+        L.AddPrecacheMaterial(Texture'mm_MayhemWeapons.Mines.ring');
 
         L.AddPrecacheMaterial(Texture'VMWeaponsTX.PlayerWeaponsGroup.SpiderMineTEX');
 	L.AddPrecacheMaterial(Shader'VMWeaponsTX.PlayerWeaponsGroup.ParasiteMineImplantTEXshad');
@@ -17,16 +17,16 @@ static function StaticPrecache(LevelInfo L)
 
 simulated function UpdatePrecacheMaterials()
 {
-	Level.AddPrecacheMaterial(Texture'tk_MayhemWeapons.empblue');
-        Level.AddPrecacheMaterial(Texture'tk_MayhemWeapons.empred');
-        Level.AddPrecacheMaterial(Texture'tk_MayhemWeapons.newMineLayer');
-        Level.AddPrecacheMaterial(Texture'tk_MayhemWeapons.Mines.ring');
+	Level.AddPrecacheMaterial(Texture'mm_MayhemWeapons.empblue');
+        Level.AddPrecacheMaterial(Texture'mm_MayhemWeapons.empred');
+        Level.AddPrecacheMaterial(Texture'mm_MayhemWeapons.newMineLayer');
+        Level.AddPrecacheMaterial(Texture'mm_MayhemWeapons.Mines.ring');
         super.UpdatePrecacheMaterials();
 }
 
 defaultproperties
 {
-     InventoryType=Class'tk_Mayhemweapons.MayhemONSMineLayer'
+     InventoryType=Class'mm_MayhemWeapons.MayhemONSMineLayer'
      PickupMessage="You got the Mayhem Mine Layer."
-     Skins(0)=Texture'tk_MayhemWeapons.newminelayer'
+     Skins(0)=Texture'mm_MayhemWeapons.newminelayer'
 }

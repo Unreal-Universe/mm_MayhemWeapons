@@ -15,5 +15,5 @@ function Projectile SpawnProjectile(Vector Start, Rotator Dir)
 defaultproperties
 {
      bRecommendSplashDamage=False
-     AmmoClass=Class'tk_Mayhemweapons.MayhemRocketAmmo'
+     AmmoClass=Class'mm_MayhemWeapons.MayhemRocketAmmo'
 }

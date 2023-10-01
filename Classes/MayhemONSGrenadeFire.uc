@@ -70,12 +70,12 @@ function StartSuperBerserk()
 
 defaultproperties
 {
-     GrenadeClass(0)=Class'tk_Mayhemweapons.MayhemONSGrenadeProjectile'
-     GrenadeClass(1)=Class'tk_Mayhemweapons.MayhemONSGrenadeProjectileProx'
+     GrenadeClass(0)=Class'mm_MayhemWeapons.MayhemONSGrenadeProjectile'
+     GrenadeClass(1)=Class'mm_MayhemWeapons.MayhemONSGrenadeProjectileProx'
      mHoldSpeedMin=-180.000000
      mHoldSpeedMax=2400.000000
      mHoldSpeedGainPerSec=2380.000000
      bFireOnRelease=True
-     AmmoClass=Class'tk_Mayhemweapons.MayhemONSGrenadeAmmo'
-     ProjectileClass=Class'tk_Mayhemweapons.MayhemONSGrenadeProjectile'
+     AmmoClass=Class'mm_MayhemWeapons.MayhemONSGrenadeAmmo'
+     ProjectileClass=Class'mm_MayhemWeapons.MayhemONSGrenadeProjectile'
 }

@@ -2,5 +2,5 @@ class DamageTypeMayhemBioGlob extends DamTypeBioGlob abstract;
 
 defaultproperties
 {
-     WeaponClass=Class'tk_Mayhemweapons.MayhemBioRifle'
+     WeaponClass=Class'mm_MayhemWeapons.MayhemBioRifle'
 }

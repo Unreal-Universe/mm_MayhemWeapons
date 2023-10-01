@@ -16,13 +16,13 @@ simulated function SpawnImpactEffects(rotator HitRot, vector EffectLoc)
 
 defaultproperties
 {
-     Core=Class'tk_Mayhemweapons.ColorShockExplosionCoreHoly'
-     Scorch=Class'tk_Mayhemweapons.ReflectiveShockImpactScorch'
-     Ring=Class'tk_Mayhemweapons.ReflectiveShockImpactRing'
-     Flare=Class'tk_Mayhemweapons.ReflectiveShockImpactFlare'
-     CoilClass=Class'tk_Mayhemweapons.ReflectiveShockCoilEffect'
-     MuzFlashClass=Class'tk_Mayhemweapons.ReflectiveShockMuzFlash'
-     MuzFlash3Class=Class'tk_Mayhemweapons.ReflectiveShockMuzFlash3rd'
-     Texture=Texture'tk_MayhemWeapons.Effects.ShockBeam_Holy'
-     Skins(0)=Texture'tk_MayhemWeapons.Effects.ShockBeam_Holy'
+     Core=Class'mm_MayhemWeapons.ColorShockExplosionCoreHoly'
+     Scorch=Class'mm_MayhemWeapons.ReflectiveShockImpactScorch'
+     Ring=Class'mm_MayhemWeapons.ReflectiveShockImpactRing'
+     Flare=Class'mm_MayhemWeapons.ReflectiveShockImpactFlare'
+     CoilClass=Class'mm_MayhemWeapons.ReflectiveShockCoilEffect'
+     MuzFlashClass=Class'mm_MayhemWeapons.ReflectiveShockMuzFlash'
+     MuzFlash3Class=Class'mm_MayhemWeapons.ReflectiveShockMuzFlash3rd'
+     Texture=Texture'mm_MayhemWeapons.Effects.ShockBeam_Holy'
+     Skins(0)=Texture'mm_MayhemWeapons.Effects.ShockBeam_Holy'
 }

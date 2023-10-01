@@ -2,13 +2,13 @@ class ColorShockComboFire extends ColorShockCombo;
 
 defaultproperties
 {
-     ExpRing=Class'tk_Mayhemweapons.ColorShockComboExpRingFire'
-     ComboFlare=Class'tk_Mayhemweapons.ColorShockComboFlareFire'
-     Core=Class'tk_Mayhemweapons.ColorShockComboCoreFire'
-     SphereDark=Class'tk_Mayhemweapons.ColorShockComboSphereDarkFire'
-     Vortex=Class'tk_Mayhemweapons.ColorShockComboVortexFire'
-     Wiggles=Class'tk_Mayhemweapons.ColorShockComboWigglesFire'
-     Flash=Class'tk_Mayhemweapons.ColorShockComboFlashFire'
+     ExpRing=Class'mm_MayhemWeapons.ColorShockComboExpRingFire'
+     ComboFlare=Class'mm_MayhemWeapons.ColorShockComboFlareFire'
+     Core=Class'mm_MayhemWeapons.ColorShockComboCoreFire'
+     SphereDark=Class'mm_MayhemWeapons.ColorShockComboSphereDarkFire'
+     Vortex=Class'mm_MayhemWeapons.ColorShockComboVortexFire'
+     Wiggles=Class'mm_MayhemWeapons.ColorShockComboWigglesFire'
+     Flash=Class'mm_MayhemWeapons.ColorShockComboFlashFire'
      LightHue=5
      LightSaturation=15
 }

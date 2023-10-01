@@ -2,5 +2,5 @@ Class MayhemONSGrenadeProjectile extends ONSGrenadeProjectile;
 
 defaultproperties
 {
-     MyDamageType=Class'tk_Mayhemweapons.DamageTypeMayhemONSGrenade'
+     MyDamageType=Class'mm_MayhemWeapons.DamageTypeMayhemONSGrenade'
 }

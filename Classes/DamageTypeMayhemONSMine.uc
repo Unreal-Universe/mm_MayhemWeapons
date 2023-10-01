@@ -2,5 +2,5 @@ class DamageTypeMayhemONSMine extends DamTypeONSMine;
 
 defaultproperties
 {
-     WeaponClass=Class'tk_Mayhemweapons.MayhemONSMineLayer'
+     WeaponClass=Class'mm_MayhemWeapons.MayhemONSMineLayer'
 }
