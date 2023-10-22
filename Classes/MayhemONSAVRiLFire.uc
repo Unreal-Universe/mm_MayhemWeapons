@@ -1,4 +1,4 @@
-class MayhemONSAVRiLFire extends ONSAVRiLFire;
+class MayhemONSAVRiLFire extends AMRiLFire;
 
 var enum EAVRiLMode
 {

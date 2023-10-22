@@ -1,4 +1,4 @@
-class MayhemONSAVRiLRocket extends ONSAVRiLRocket;
+class MayhemONSAVRiLRocket extends AMRiLRocket;
 
 defaultproperties
 {

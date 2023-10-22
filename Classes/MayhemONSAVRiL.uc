@@ -1,4 +1,5 @@
-class MayhemONSAVRiL extends ONSAVRiL config(User)
+class MayhemONSAVRiL extends AMRiL
+    config(User)
     HideDropDown;
 
 var byte CurrentAVRiLIndex;
