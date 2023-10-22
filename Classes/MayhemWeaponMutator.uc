@@ -397,7 +397,7 @@ defaultproperties
      LinkColorOptions="Random(Pick);Random(Pick);Ice Blue;Ice Blue;Neon Red;Neon Red;Neon Violet;Neon Violet;Neon Green;Neon Green;Orange;Orange;Yellow;Yellow;Holy White;Holy White"
      bAffectPlayers=True
      GroupName="Arena"
-     FriendlyName="Mayhem Weapons"
+     FriendlyName="MM_Mayhem Weapons"
      Description="Replaces most weapons with weapons of mayhem!  Make sure to check options for cool configurable stuff!  ATTENTION:  Check the keybinds menu to set up a key for toggling weapon modes.  The the key listed as toggling colors is optional for instant action matches only."
      bAlwaysRelevant=True
      RemoteRole=ROLE_SimulatedProxy
